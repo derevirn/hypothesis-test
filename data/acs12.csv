@@ -1,0 +1,2001 @@
+income,employment,hrs_work,race,age,gender,citizen,time_to_work,lang,married,edu,disability,birth_qrtr
+60000,not in labor force,40,white,68,female,yes,NA,english,no,college,no,jul thru sep
+0,not in labor force,NA,white,88,male,yes,NA,english,no,hs or lower,yes,jan thru mar
+NA,NA,NA,white,12,female,yes,NA,english,no,hs or lower,no,oct thru dec
+0,not in labor force,NA,white,17,male,yes,NA,other,no,hs or lower,no,oct thru dec
+0,not in labor force,NA,white,77,female,yes,NA,other,no,hs or lower,yes,jul thru sep
+1700,employed,40,other,35,female,yes,15,other,yes,hs or lower,yes,jul thru sep
+NA,NA,NA,white,11,male,yes,NA,english,no,hs or lower,no,oct thru dec
+NA,NA,NA,other,7,male,yes,NA,english,no,hs or lower,yes,jul thru sep
+NA,NA,NA,asian,6,male,yes,NA,other,no,hs or lower,no,jan thru mar
+45000,employed,84,white,27,male,yes,40,english,yes,hs or lower,no,oct thru dec
+NA,NA,NA,white,8,female,yes,NA,english,no,hs or lower,no,jan thru mar
+8600,employed,23,white,69,female,yes,5,english,no,hs or lower,no,jul thru sep
+0,not in labor force,NA,white,69,male,yes,NA,english,yes,college,yes,jan thru mar
+0,not in labor force,NA,black,17,male,yes,NA,english,no,hs or lower,no,oct thru dec
+NA,NA,NA,white,10,male,yes,NA,english,no,hs or lower,no,jul thru sep
+33500,employed,55,white,52,male,yes,20,english,yes,hs or lower,no,apr thru jun
+4000,employed,8,white,67,female,yes,10,english,yes,hs or lower,no,apr thru jun
+19000,employed,35,white,36,female,yes,15,english,yes,college,no,jul thru sep
+NA,NA,NA,white,12,female,yes,NA,english,no,hs or lower,no,oct thru dec
+3400,employed,25,white,40,male,yes,NA,english,no,hs or lower,yes,jan thru mar
+0,unemployed,NA,black,27,male,yes,NA,english,no,hs or lower,no,apr thru jun
+1200,not in labor force,12,white,18,female,yes,NA,english,no,hs or lower,no,jan thru mar
+140000,employed,40,white,35,female,no,30,other,no,hs or lower,no,jan thru mar
+0,employed,8,white,31,female,yes,20,other,no,college,no,jul thru sep
+12000,employed,23,asian,32,female,yes,45,other,no,hs or lower,no,apr thru jun
+45000,employed,72,black,35,male,yes,25,other,yes,hs or lower,no,oct thru dec
+150000,employed,40,white,51,male,yes,10,english,yes,college,no,oct thru dec
+0,not in labor force,NA,white,37,female,yes,NA,english,yes,grad,no,oct thru dec
+0,not in labor force,NA,white,47,female,yes,NA,english,no,hs or lower,yes,oct thru dec
+70000,employed,50,black,50,male,yes,40,english,yes,college,no,jan thru mar
+12000,employed,35,asian,20,female,yes,10,other,no,hs or lower,no,jan thru mar
+24500,employed,40,white,61,male,yes,10,english,yes,hs or lower,no,jul thru sep
+45000,employed,40,white,61,female,yes,10,english,no,college,no,jan thru mar
+0,not in labor force,NA,asian,70,male,no,NA,other,yes,hs or lower,no,jan thru mar
+70000,employed,35,white,43,female,yes,10,english,yes,college,no,jul thru sep
+35000,employed,40,white,27,male,yes,20,english,yes,hs or lower,no,jan thru mar
+0,not in labor force,NA,white,60,female,yes,NA,english,yes,hs or lower,no,jan thru mar
+15000,employed,8,white,20,female,yes,NA,english,no,hs or lower,no,oct thru dec
+31000,employed,40,white,32,female,yes,35,english,yes,hs or lower,no,oct thru dec
+NA,NA,NA,black,3,female,yes,NA,NA,no,hs or lower,no,apr thru jun
+0,not in labor force,NA,white,63,female,yes,NA,english,yes,hs or lower,no,oct thru dec
+19000,employed,70,white,28,male,yes,3,other,yes,hs or lower,no,jan thru mar
+50000,employed,45,asian,48,male,yes,40,english,yes,grad,no,jul thru sep
+85000,employed,50,white,33,male,yes,65,english,yes,college,no,jan thru mar
+100000,employed,40,white,27,male,yes,45,english,yes,college,no,jan thru mar
+0,not in labor force,NA,white,21,female,yes,NA,english,no,hs or lower,no,apr thru jun
+49000,employed,55,white,32,male,yes,10,english,yes,grad,no,apr thru jun
+0,not in labor force,NA,black,34,male,yes,NA,english,yes,hs or lower,yes,jan thru mar
+9600,employed,24,white,33,female,yes,5,english,no,hs or lower,no,jan thru mar
+0,not in labor force,NA,white,83,male,yes,NA,english,yes,hs or lower,no,oct thru dec
+333000,employed,55,white,75,male,yes,15,english,no,grad,yes,apr thru jun
+NA,NA,NA,white,14,female,yes,NA,english,no,hs or lower,no,jan thru mar
+0,not in labor force,NA,white,65,male,yes,NA,english,yes,college,no,oct thru dec
+0,not in labor force,NA,black,18,female,yes,NA,english,no,hs or lower,no,jan thru mar
+NA,NA,NA,white,4,male,yes,NA,NA,no,hs or lower,no,jul thru sep
+NA,NA,NA,white,14,female,yes,NA,english,no,hs or lower,no,jul thru sep
+NA,NA,NA,white,6,female,yes,NA,english,no,hs or lower,no,jul thru sep
+0,not in labor force,NA,white,33,female,no,NA,other,no,hs or lower,no,jul thru sep
+70000,employed,50,white,37,male,yes,30,english,yes,college,no,jan thru mar
+NA,NA,NA,white,11,male,yes,NA,english,no,hs or lower,no,apr thru jun
+NA,NA,NA,white,2,male,yes,NA,NA,no,NA,no,oct thru dec
+15000,employed,20,white,64,female,yes,15,english,yes,grad,no,oct thru dec
+NA,NA,NA,white,13,female,yes,NA,english,no,hs or lower,no,jan thru mar
+NA,NA,NA,white,2,male,yes,NA,NA,no,NA,no,jan thru mar
+6500,employed,10,white,22,male,yes,15,english,yes,hs or lower,no,jul thru sep
+0,not in labor force,NA,black,61,male,yes,NA,english,no,hs or lower,yes,oct thru dec
+0,not in labor force,NA,white,70,female,yes,NA,english,no,hs or lower,yes,oct thru dec
+0,not in labor force,NA,white,65,female,yes,NA,english,no,hs or lower,no,jul thru sep
+0,not in labor force,NA,black,27,male,yes,NA,english,no,hs or lower,no,jul thru sep
+0,not in labor force,NA,black,56,female,yes,NA,english,no,hs or lower,yes,oct thru dec
+NA,NA,NA,white,7,male,yes,NA,english,no,hs or lower,no,oct thru dec
+0,not in labor force,NA,white,77,female,yes,NA,english,yes,grad,no,oct thru dec
+0,not in labor force,NA,black,30,male,yes,NA,english,no,hs or lower,no,oct thru dec
+1200,unemployed,25,white,31,male,yes,NA,english,no,hs or lower,no,jan thru mar
+5000,not in labor force,20,asian,44,female,yes,NA,english,yes,college,no,oct thru dec
+0,not in labor force,NA,white,77,female,yes,NA,english,yes,grad,no,jan thru mar
+60000,employed,40,black,50,male,yes,25,english,yes,hs or lower,no,jan thru mar
+0,not in labor force,NA,white,63,male,yes,NA,english,no,grad,no,apr thru jun
+0,not in labor force,NA,white,74,female,yes,NA,english,yes,hs or lower,no,jan thru mar
+0,employed,50,white,54,male,yes,NA,english,yes,hs or lower,no,apr thru jun
+33000,employed,45,white,28,female,yes,45,english,no,college,no,jan thru mar
+60000,employed,50,white,56,male,yes,3,english,yes,hs or lower,no,jul thru sep
+0,not in labor force,NA,white,36,male,yes,NA,english,no,hs or lower,no,apr thru jun
+NA,NA,NA,white,11,female,yes,NA,english,no,hs or lower,no,apr thru jun
+0,not in labor force,NA,white,68,male,yes,NA,english,no,hs or lower,no,apr thru jun
+NA,NA,NA,white,3,female,yes,NA,NA,no,hs or lower,no,apr thru jun
+31000,employed,38,white,62,female,yes,30,english,yes,hs or lower,yes,jul thru sep
+35000,employed,40,white,50,female,yes,30,other,yes,hs or lower,no,oct thru dec
+70000,employed,50,white,38,male,yes,NA,english,yes,grad,no,jul thru sep
+NA,NA,NA,black,9,male,yes,NA,other,no,hs or lower,no,oct thru dec
+0,not in labor force,NA,other,20,female,yes,NA,other,no,hs or lower,yes,jan thru mar
+42000,employed,40,white,50,female,yes,NA,english,yes,hs or lower,no,jul thru sep
+8000,unemployed,35,white,43,female,yes,NA,english,yes,hs or lower,no,jul thru sep
+NA,NA,NA,white,0,female,yes,NA,NA,no,NA,no,jan thru mar
+18000,employed,50,asian,50,male,no,99,other,yes,hs or lower,no,jan thru mar
+0,employed,50,white,46,female,yes,2,english,yes,grad,no,jul thru sep
+NA,NA,NA,white,7,female,yes,NA,other,no,hs or lower,no,jul thru sep
+0,not in labor force,NA,white,36,female,yes,NA,english,no,hs or lower,no,apr thru jun
+10800,employed,29,white,41,female,yes,20,english,yes,college,no,oct thru dec
+0,not in labor force,NA,white,71,female,yes,NA,english,no,grad,yes,oct thru dec
+2000,employed,10,white,16,male,yes,5,english,no,hs or lower,no,oct thru dec
+0,not in labor force,NA,white,65,female,yes,NA,english,yes,hs or lower,no,oct thru dec
+32000,employed,45,white,53,male,yes,15,english,yes,hs or lower,no,apr thru jun
+60000,employed,40,white,48,male,yes,25,english,yes,hs or lower,no,apr thru jun
+NA,NA,NA,white,9,male,yes,NA,english,no,hs or lower,no,apr thru jun
+NA,NA,NA,white,12,male,yes,NA,english,no,hs or lower,no,jul thru sep
+NA,NA,NA,white,13,male,yes,NA,english,no,hs or lower,no,oct thru dec
+0,not in labor force,NA,white,79,female,yes,NA,english,no,hs or lower,no,apr thru jun
+9000,employed,42,white,48,female,yes,20,english,no,hs or lower,no,apr thru jun
+3000,employed,20,white,33,female,yes,NA,english,no,hs or lower,no,jul thru sep
+37000,employed,60,white,26,female,yes,NA,english,yes,college,no,oct thru dec
+0,not in labor force,NA,black,78,male,yes,NA,english,no,hs or lower,yes,oct thru dec
+NA,NA,NA,white,12,female,yes,NA,english,no,hs or lower,no,oct thru dec
+0,NA,NA,white,15,female,yes,NA,other,no,hs or lower,no,apr thru jun
+12800,employed,25,white,22,male,yes,15,english,no,college,no,jul thru sep
+1500,unemployed,24,white,44,male,yes,NA,english,no,hs or lower,no,apr thru jun
+0,not in labor force,NA,white,16,female,yes,NA,english,no,hs or lower,no,jul thru sep
+0,not in labor force,NA,white,43,female,yes,NA,english,yes,college,no,jan thru mar
+1200,not in labor force,20,white,21,female,yes,NA,english,no,hs or lower,no,jul thru sep
+0,not in labor force,NA,white,58,female,yes,NA,english,yes,hs or lower,no,oct thru dec
+0,not in labor force,NA,white,67,male,yes,NA,english,yes,hs or lower,no,oct thru dec
+1200,employed,5,white,25,male,yes,30,english,yes,college,no,jan thru mar
+0,not in labor force,NA,white,65,female,yes,NA,english,yes,college,no,oct thru dec
+0,not in labor force,NA,white,93,male,yes,NA,english,no,grad,no,apr thru jun
+33000,employed,40,white,49,male,yes,15,english,yes,grad,yes,jan thru mar
+NA,NA,NA,white,12,female,yes,NA,english,no,hs or lower,no,jul thru sep
+24000,employed,40,white,35,female,yes,20,english,yes,hs or lower,no,jul thru sep
+32000,employed,40,white,33,female,yes,10,english,yes,college,no,jan thru mar
+6300,not in labor force,25,white,69,female,yes,NA,english,yes,hs or lower,no,jan thru mar
+NA,NA,NA,white,11,male,yes,NA,english,no,hs or lower,no,jul thru sep
+2000,not in labor force,10,white,20,male,yes,NA,english,no,hs or lower,no,oct thru dec
+NA,NA,NA,other,11,male,yes,NA,other,no,hs or lower,no,oct thru dec
+NA,NA,NA,white,1,female,yes,NA,NA,no,NA,no,jan thru mar
+0,not in labor force,NA,white,84,male,yes,NA,english,yes,hs or lower,yes,oct thru dec
+168000,employed,60,white,51,male,yes,30,english,yes,college,no,jul thru sep
+4400,employed,20,black,18,male,yes,5,english,no,hs or lower,no,apr thru jun
+0,not in labor force,NA,white,76,female,yes,NA,other,no,hs or lower,no,apr thru jun
+10000,employed,18,white,36,female,yes,5,other,yes,hs or lower,no,apr thru jun
+NA,NA,NA,white,14,male,yes,NA,english,no,hs or lower,no,oct thru dec
+1500,not in labor force,16,white,18,female,yes,NA,english,no,hs or lower,no,apr thru jun
+NA,NA,NA,white,10,female,yes,NA,english,no,hs or lower,no,oct thru dec
+22800,employed,35,white,26,female,yes,15,english,no,college,no,jan thru mar
+NA,NA,NA,asian,11,male,yes,NA,english,no,hs or lower,no,oct thru dec
+34000,employed,40,other,60,female,no,10,english,no,hs or lower,no,apr thru jun
+5000,employed,20,asian,21,male,yes,30,english,no,hs or lower,no,oct thru dec
+0,not in labor force,NA,white,61,female,yes,NA,english,yes,hs or lower,no,oct thru dec
+16800,employed,40,white,25,male,yes,30,english,no,hs or lower,no,jan thru mar
+0,not in labor force,NA,white,50,male,yes,NA,english,no,hs or lower,yes,apr thru jun
+0,not in labor force,NA,white,71,female,yes,NA,english,no,college,no,oct thru dec
+850,employed,30,white,68,male,yes,NA,english,yes,hs or lower,no,oct thru dec
+0,not in labor force,NA,white,74,female,yes,NA,other,yes,hs or lower,no,jul thru sep
+0,not in labor force,NA,white,46,female,no,NA,other,yes,hs or lower,no,apr thru jun
+25000,employed,40,white,47,male,yes,5,english,no,hs or lower,no,jul thru sep
+9000,employed,40,white,52,female,yes,NA,english,yes,hs or lower,no,jul thru sep
+143000,employed,35,white,37,female,yes,10,english,yes,grad,no,jul thru sep
+20000,employed,40,white,27,male,yes,30,english,no,college,no,jul thru sep
+45000,employed,36,white,60,female,yes,45,english,no,hs or lower,no,jan thru mar
+600,employed,15,other,17,male,no,10,other,no,hs or lower,no,oct thru dec
+23000,employed,40,black,49,female,yes,20,english,no,hs or lower,no,oct thru dec
+45000,employed,30,white,45,male,no,2,other,yes,hs or lower,no,jul thru sep
+NA,NA,NA,other,3,female,yes,NA,NA,no,hs or lower,yes,jan thru mar
+0,not in labor force,NA,white,16,female,yes,NA,english,no,hs or lower,no,oct thru dec
+0,not in labor force,NA,white,34,female,no,NA,english,yes,college,no,apr thru jun
+43000,employed,70,white,53,male,yes,20,english,no,hs or lower,yes,jan thru mar
+NA,NA,NA,white,0,female,yes,NA,NA,no,NA,no,jul thru sep
+37000,employed,37,white,55,male,yes,5,english,yes,hs or lower,no,oct thru dec
+55000,employed,60,white,66,male,yes,50,english,yes,grad,no,jul thru sep
+58000,employed,50,white,59,male,yes,45,english,yes,college,yes,jul thru sep
+0,unemployed,NA,white,24,male,yes,NA,english,no,college,no,apr thru jun
+0,not in labor force,NA,white,77,male,yes,NA,english,no,hs or lower,yes,apr thru jun
+360000,employed,40,white,50,male,yes,5,english,yes,college,no,jan thru mar
+127000,employed,40,other,32,female,yes,20,other,yes,grad,no,jan thru mar
+197000,employed,50,white,41,male,yes,15,english,yes,college,no,apr thru jun
+20000,employed,40,white,27,female,yes,10,english,no,hs or lower,no,jul thru sep
+3000,not in labor force,40,white,63,female,yes,NA,english,no,hs or lower,no,jul thru sep
+19600,employed,35,white,42,female,yes,5,english,no,college,no,apr thru jun
+0,unemployed,NA,white,42,male,yes,NA,english,no,college,no,jan thru mar
+0,not in labor force,NA,white,63,female,yes,NA,english,yes,grad,no,jul thru sep
+24400,employed,38,white,66,female,yes,30,other,yes,hs or lower,no,apr thru jun
+61000,employed,42,white,35,male,yes,15,english,no,hs or lower,no,apr thru jun
+NA,NA,NA,white,6,female,yes,NA,english,no,hs or lower,no,jan thru mar
+NA,NA,NA,white,9,female,yes,NA,english,no,hs or lower,no,apr thru jun
+0,not in labor force,NA,white,62,female,yes,NA,english,no,hs or lower,no,apr thru jun
+40000,employed,40,white,29,male,yes,60,english,yes,college,no,oct thru dec
+0,not in labor force,NA,black,47,male,yes,NA,english,no,hs or lower,yes,jan thru mar
+NA,NA,NA,black,8,male,yes,NA,english,no,hs or lower,no,jan thru mar
+NA,NA,NA,white,4,female,yes,NA,NA,no,hs or lower,no,oct thru dec
+6400,employed,40,white,29,male,yes,15,other,no,hs or lower,no,jul thru sep
+18000,employed,40,white,21,male,yes,10,english,no,hs or lower,no,jul thru sep
+0,not in labor force,NA,white,16,male,yes,NA,other,no,hs or lower,no,oct thru dec
+60000,employed,40,other,48,male,yes,45,english,yes,grad,no,jan thru mar
+0,not in labor force,NA,white,77,male,yes,NA,english,yes,college,no,jan thru mar
+15000,employed,40,white,25,female,yes,45,english,no,hs or lower,no,apr thru jun
+0,unemployed,NA,black,35,male,yes,NA,english,yes,hs or lower,no,apr thru jun
+31000,not in labor force,38,white,69,female,yes,NA,english,no,college,no,jul thru sep
+155000,employed,45,white,48,male,yes,15,english,yes,college,no,apr thru jun
+45000,employed,60,white,45,female,yes,15,english,no,hs or lower,no,jul thru sep
+3000,employed,15,white,20,female,yes,10,english,no,hs or lower,no,jul thru sep
+3000,employed,22,other,19,female,yes,20,english,no,hs or lower,no,apr thru jun
+14400,employed,40,white,33,male,yes,20,english,no,hs or lower,no,jul thru sep
+2700,not in labor force,25,other,37,female,no,NA,other,no,hs or lower,no,jul thru sep
+0,not in labor force,NA,white,18,male,yes,NA,english,no,hs or lower,no,oct thru dec
+23000,employed,40,asian,34,male,yes,50,other,yes,hs or lower,no,jan thru mar
+90000,employed,50,asian,30,male,yes,45,other,no,grad,no,apr thru jun
+0,not in labor force,NA,white,70,male,yes,NA,english,yes,grad,no,oct thru dec
+0,not in labor force,NA,black,40,male,yes,NA,english,no,hs or lower,no,jan thru mar
+16000,employed,40,black,42,female,yes,8,english,no,hs or lower,no,jan thru mar
+0,not in labor force,NA,white,82,female,yes,NA,english,yes,hs or lower,yes,jan thru mar
+100000,employed,40,white,40,male,yes,142,other,yes,college,no,jul thru sep
+NA,NA,NA,white,8,female,yes,NA,english,no,hs or lower,no,oct thru dec
+114000,employed,40,white,50,female,yes,25,other,yes,grad,no,jul thru sep
+0,employed,30,white,55,female,yes,NA,english,yes,hs or lower,no,apr thru jun
+0,not in labor force,NA,white,16,female,yes,NA,english,no,hs or lower,no,jan thru mar
+0,unemployed,NA,white,54,male,yes,NA,english,yes,hs or lower,yes,oct thru dec
+60000,employed,40,white,39,male,yes,20,english,yes,grad,no,apr thru jun
+323000,employed,45,white,43,female,yes,10,english,no,grad,no,oct thru dec
+40000,employed,40,white,52,male,yes,40,english,yes,hs or lower,no,jul thru sep
+NA,NA,NA,white,5,female,yes,NA,english,no,hs or lower,no,apr thru jun
+0,not in labor force,NA,white,39,male,yes,NA,english,no,hs or lower,yes,jul thru sep
+6000,employed,30,white,34,female,yes,12,english,yes,college,no,oct thru dec
+0,not in labor force,NA,white,81,male,yes,NA,english,yes,hs or lower,yes,jul thru sep
+0,not in labor force,NA,other,67,male,yes,NA,english,yes,grad,no,jan thru mar
+54000,employed,48,white,42,male,yes,25,english,yes,college,no,jan thru mar
+85000,employed,40,white,42,female,yes,15,other,yes,grad,no,jan thru mar
+1900,employed,25,white,37,female,yes,10,other,yes,college,no,oct thru dec
+NA,NA,NA,white,8,female,yes,NA,other,no,hs or lower,no,oct thru dec
+55000,employed,60,white,26,female,yes,20,other,no,college,no,apr thru jun
+0,unemployed,NA,white,18,female,yes,NA,english,no,hs or lower,no,oct thru dec
+1800,unemployed,8,white,22,female,yes,NA,english,yes,hs or lower,yes,jul thru sep
+0,not in labor force,NA,white,73,male,yes,NA,english,yes,hs or lower,yes,apr thru jun
+398000,employed,40,asian,51,male,yes,15,other,yes,grad,no,jul thru sep
+104000,employed,50,white,33,male,yes,NA,english,no,college,no,apr thru jun
+0,not in labor force,NA,white,43,male,yes,NA,other,yes,hs or lower,yes,jan thru mar
+NA,NA,NA,white,0,female,yes,NA,NA,no,NA,no,apr thru jun
+35000,employed,40,white,43,male,yes,15,english,no,hs or lower,no,apr thru jun
+0,not in labor force,NA,white,27,female,no,NA,other,yes,college,no,apr thru jun
+52000,employed,48,white,61,male,yes,15,english,no,hs or lower,no,jul thru sep
+0,not in labor force,NA,white,78,male,yes,NA,english,yes,hs or lower,no,jul thru sep
+NA,NA,NA,white,4,male,yes,NA,NA,no,hs or lower,no,oct thru dec
+38000,employed,45,white,68,female,yes,20,english,yes,hs or lower,no,oct thru dec
+0,not in labor force,NA,white,60,male,yes,NA,english,no,hs or lower,no,jan thru mar
+0,not in labor force,NA,white,64,female,yes,NA,english,yes,hs or lower,no,jan thru mar
+NA,NA,NA,white,2,male,yes,NA,NA,no,NA,no,jan thru mar
+33500,employed,40,white,29,male,yes,45,english,yes,hs or lower,no,apr thru jun
+0,not in labor force,NA,white,52,male,yes,NA,english,no,hs or lower,yes,jan thru mar
+NA,NA,NA,black,2,female,yes,NA,NA,no,NA,no,apr thru jun
+NA,NA,NA,white,11,male,yes,NA,english,no,hs or lower,no,jan thru mar
+0,not in labor force,NA,white,61,female,yes,NA,english,no,hs or lower,yes,jul thru sep
+0,employed,25,white,48,female,yes,NA,english,yes,college,no,jan thru mar
+43000,employed,40,asian,47,female,yes,10,other,yes,hs or lower,no,jul thru sep
+0,not in labor force,NA,black,24,male,yes,NA,english,no,hs or lower,no,jul thru sep
+333000,employed,50,white,37,male,yes,10,english,yes,grad,no,jan thru mar
+NA,NA,NA,white,0,female,yes,NA,NA,no,NA,no,jan thru mar
+0,not in labor force,NA,white,65,male,yes,NA,english,no,hs or lower,no,apr thru jun
+0,not in labor force,NA,white,18,female,yes,NA,english,no,hs or lower,no,jul thru sep
+34700,employed,40,white,59,female,yes,30,english,no,hs or lower,no,apr thru jun
+NA,NA,NA,white,4,male,yes,NA,NA,no,hs or lower,no,oct thru dec
+NA,NA,NA,other,6,male,yes,NA,english,no,hs or lower,no,apr thru jun
+270,not in labor force,20,black,48,female,yes,NA,english,no,hs or lower,no,apr thru jun
+0,not in labor force,NA,white,39,female,no,NA,other,yes,hs or lower,no,oct thru dec
+2000,employed,16,white,37,female,yes,NA,english,yes,grad,no,jan thru mar
+15000,employed,25,white,36,female,yes,15,english,yes,hs or lower,no,apr thru jun
+NA,NA,NA,asian,7,male,yes,NA,other,no,hs or lower,no,jan thru mar
+40000,employed,40,white,51,male,yes,30,english,no,hs or lower,no,jan thru mar
+0,employed,40,other,62,female,yes,10,other,no,hs or lower,no,apr thru jun
+0,not in labor force,NA,white,29,female,yes,NA,english,yes,hs or lower,no,oct thru dec
+0,not in labor force,NA,white,63,female,yes,NA,english,yes,hs or lower,yes,jul thru sep
+0,not in labor force,NA,black,64,male,yes,NA,english,yes,hs or lower,yes,jan thru mar
+360000,employed,50,white,52,male,yes,40,english,yes,hs or lower,no,apr thru jun
+0,not in labor force,NA,white,76,male,yes,NA,english,yes,college,no,jul thru sep
+89000,employed,55,white,43,male,yes,40,english,yes,hs or lower,no,jan thru mar
+40000,employed,40,white,50,male,yes,3,english,no,college,no,jul thru sep
+0,unemployed,NA,white,58,female,yes,NA,english,yes,hs or lower,yes,oct thru dec
+0,not in labor force,NA,white,45,female,yes,NA,other,yes,hs or lower,no,oct thru dec
+0,not in labor force,NA,white,73,female,yes,NA,english,yes,hs or lower,yes,jan thru mar
+14000,employed,13,white,53,female,yes,15,english,no,college,yes,oct thru dec
+0,not in labor force,NA,black,63,female,yes,NA,english,yes,grad,no,jul thru sep
+NA,NA,NA,white,14,male,yes,NA,english,no,hs or lower,no,jul thru sep
+0,not in labor force,NA,other,68,male,no,NA,other,yes,hs or lower,no,jan thru mar
+4200,employed,8,white,17,male,yes,8,english,no,hs or lower,no,jan thru mar
+0,not in labor force,NA,white,76,female,yes,NA,english,yes,hs or lower,no,oct thru dec
+8400,unemployed,28,white,21,female,yes,NA,english,yes,hs or lower,no,jul thru sep
+29000,employed,36,white,65,male,yes,20,english,yes,college,yes,jul thru sep
+0,not in labor force,NA,white,60,male,yes,NA,english,yes,hs or lower,no,jan thru mar
+70000,employed,65,white,29,male,yes,20,other,yes,college,no,jul thru sep
+NA,NA,NA,white,10,female,yes,NA,english,no,hs or lower,no,apr thru jun
+40000,employed,40,white,56,male,yes,25,other,yes,college,no,oct thru dec
+6000,employed,8,white,31,male,yes,5,english,yes,hs or lower,no,jul thru sep
+65000,employed,40,white,63,male,yes,60,english,yes,college,yes,jan thru mar
+NA,NA,NA,asian,7,male,yes,NA,other,no,hs or lower,no,jul thru sep
+7500,employed,55,white,46,female,yes,5,english,yes,hs or lower,no,apr thru jun
+0,not in labor force,NA,white,54,male,yes,NA,other,no,hs or lower,yes,apr thru jun
+NA,NA,NA,white,4,male,yes,NA,NA,no,hs or lower,no,jan thru mar
+0,not in labor force,NA,white,16,male,yes,NA,english,no,hs or lower,yes,apr thru jun
+340000,employed,40,asian,40,male,no,40,other,no,grad,no,oct thru dec
+0,not in labor force,NA,white,64,female,yes,NA,english,no,hs or lower,no,oct thru dec
+0,not in labor force,NA,white,16,female,yes,NA,english,no,hs or lower,no,apr thru jun
+22000,unemployed,40,black,57,male,yes,NA,english,no,college,yes,apr thru jun
+46000,employed,40,white,27,female,yes,25,english,yes,grad,no,jul thru sep
+0,not in labor force,NA,other,52,female,yes,NA,other,no,college,yes,oct thru dec
+0,employed,50,white,63,male,yes,45,english,yes,grad,no,jul thru sep
+16000,unemployed,40,white,56,female,yes,NA,english,no,hs or lower,no,oct thru dec
+NA,NA,NA,other,5,male,yes,NA,english,no,hs or lower,no,oct thru dec
+39000,employed,35,white,63,female,yes,45,english,yes,college,no,jan thru mar
+4000,employed,30,white,36,male,yes,30,english,no,college,no,oct thru dec
+0,not in labor force,NA,white,73,female,yes,NA,english,no,hs or lower,no,jan thru mar
+50000,employed,70,white,46,male,yes,148,english,yes,hs or lower,no,apr thru jun
+NA,NA,NA,white,4,male,yes,NA,NA,no,hs or lower,no,oct thru dec
+0,not in labor force,NA,black,75,male,yes,NA,english,no,hs or lower,yes,jul thru sep
+0,not in labor force,NA,white,67,male,yes,NA,english,yes,hs or lower,no,jul thru sep
+17000,employed,40,white,19,male,yes,15,english,no,hs or lower,no,apr thru jun
+NA,NA,NA,white,6,male,yes,NA,english,no,hs or lower,no,apr thru jun
+0,not in labor force,NA,asian,19,female,no,NA,other,no,hs or lower,no,oct thru dec
+0,not in labor force,NA,white,44,male,yes,NA,english,no,hs or lower,yes,jul thru sep
+NA,NA,NA,white,14,male,yes,NA,other,no,hs or lower,no,jan thru mar
+2000,not in labor force,84,white,55,female,yes,NA,english,yes,college,yes,apr thru jun
+0,not in labor force,NA,white,94,female,yes,NA,english,no,hs or lower,yes,apr thru jun
+24000,employed,40,other,51,male,yes,4,english,yes,hs or lower,no,oct thru dec
+85000,employed,40,white,51,female,yes,15,english,yes,college,no,apr thru jun
+NA,NA,NA,other,7,male,yes,NA,english,no,hs or lower,no,apr thru jun
+124000,employed,46,white,48,male,yes,20,english,no,grad,no,jan thru mar
+34000,employed,50,white,40,male,yes,35,english,no,college,no,jan thru mar
+42000,employed,40,other,33,male,yes,20,english,no,hs or lower,no,apr thru jun
+NA,NA,NA,black,7,female,yes,NA,english,no,hs or lower,no,jul thru sep
+60000,employed,40,white,46,male,yes,25,english,yes,hs or lower,no,jul thru sep
+0,unemployed,NA,white,20,female,yes,NA,english,no,hs or lower,no,jul thru sep
+50000,employed,40,white,31,female,yes,30,english,yes,college,no,jul thru sep
+NA,NA,NA,white,8,female,yes,NA,english,no,hs or lower,no,jan thru mar
+NA,NA,NA,white,12,male,yes,NA,english,no,hs or lower,no,jan thru mar
+19200,employed,50,other,23,male,no,30,other,no,hs or lower,no,jul thru sep
+27000,employed,40,asian,35,male,yes,30,other,yes,hs or lower,no,jul thru sep
+25000,employed,40,white,47,female,yes,45,english,yes,hs or lower,no,oct thru dec
+NA,NA,NA,white,13,male,yes,NA,english,no,hs or lower,no,jan thru mar
+NA,NA,NA,white,14,male,yes,NA,english,no,hs or lower,yes,jan thru mar
+NA,NA,NA,white,6,female,yes,NA,english,no,hs or lower,no,oct thru dec
+0,not in labor force,NA,white,19,female,yes,NA,english,no,hs or lower,no,jan thru mar
+19600,employed,18,white,59,female,yes,10,english,no,college,no,oct thru dec
+12000,employed,30,white,55,female,yes,25,english,yes,hs or lower,no,jul thru sep
+0,not in labor force,NA,black,42,male,yes,NA,english,no,hs or lower,yes,jan thru mar
+100000,employed,40,white,61,male,yes,15,english,yes,grad,no,jan thru mar
+48000,employed,40,white,28,female,yes,40,english,no,college,no,jul thru sep
+NA,NA,NA,white,0,male,yes,NA,NA,no,NA,no,jan thru mar
+19000,employed,37,white,31,female,yes,20,english,yes,hs or lower,no,oct thru dec
+NA,NA,NA,white,13,female,yes,NA,english,no,hs or lower,yes,jul thru sep
+25000,employed,45,white,61,male,yes,75,english,yes,hs or lower,yes,apr thru jun
+35000,employed,40,white,40,female,yes,60,english,no,college,no,jan thru mar
+30000,employed,40,white,38,male,yes,NA,english,no,hs or lower,no,apr thru jun
+175000,employed,65,white,43,male,yes,35,english,no,hs or lower,no,apr thru jun
+0,not in labor force,NA,black,66,female,yes,NA,english,yes,hs or lower,no,jul thru sep
+0,employed,52,white,55,female,yes,15,english,yes,college,no,apr thru jun
+NA,NA,NA,other,1,male,yes,NA,NA,no,NA,no,apr thru jun
+4200,not in labor force,40,white,21,female,yes,NA,other,no,hs or lower,no,jan thru mar
+40000,unemployed,50,white,52,female,yes,NA,english,no,college,no,jul thru sep
+38000,employed,40,white,35,male,yes,NA,english,yes,grad,no,apr thru jun
+50000,employed,40,white,66,male,yes,9,english,no,hs or lower,no,oct thru dec
+NA,NA,NA,black,4,female,yes,NA,NA,no,hs or lower,no,jan thru mar
+0,not in labor force,NA,black,16,male,yes,NA,english,no,hs or lower,no,oct thru dec
+NA,NA,NA,white,9,male,yes,NA,english,no,hs or lower,no,oct thru dec
+0,not in labor force,NA,white,68,male,yes,NA,english,yes,hs or lower,no,jan thru mar
+30000,employed,40,white,58,male,yes,20,english,yes,hs or lower,no,jan thru mar
+50000,employed,56,white,57,male,yes,NA,english,yes,hs or lower,no,jan thru mar
+NA,NA,NA,white,10,male,yes,NA,other,no,hs or lower,no,apr thru jun
+10000,employed,40,white,20,male,yes,20,english,yes,hs or lower,yes,oct thru dec
+24000,employed,30,white,69,female,yes,20,english,yes,hs or lower,no,jul thru sep
+60000,employed,68,white,20,male,yes,30,english,no,hs or lower,no,jul thru sep
+0,not in labor force,NA,white,48,female,yes,NA,english,yes,hs or lower,no,jan thru mar
+0,not in labor force,NA,white,51,female,yes,NA,english,yes,college,no,jul thru sep
+150000,employed,42,other,46,male,yes,40,english,no,hs or lower,no,apr thru jun
+4800,employed,25,white,21,male,no,5,english,no,hs or lower,no,jul thru sep
+0,unemployed,NA,white,61,female,yes,NA,english,no,hs or lower,no,apr thru jun
+0,not in labor force,NA,white,66,female,yes,NA,english,yes,hs or lower,no,apr thru jun
+0,not in labor force,NA,black,24,male,yes,NA,english,yes,hs or lower,yes,apr thru jun
+50000,employed,40,asian,64,male,yes,30,other,yes,college,no,jan thru mar
+108000,employed,45,white,61,male,yes,20,english,yes,college,no,jul thru sep
+0,not in labor force,NA,black,50,female,yes,NA,english,no,college,yes,oct thru dec
+NA,NA,NA,white,10,female,yes,NA,other,no,hs or lower,no,oct thru dec
+0,not in labor force,NA,white,18,female,yes,NA,english,yes,hs or lower,no,jan thru mar
+0,not in labor force,NA,white,64,male,yes,NA,english,no,college,yes,oct thru dec
+0,not in labor force,NA,other,40,male,yes,NA,english,no,hs or lower,no,jan thru mar
+0,not in labor force,NA,white,69,female,yes,NA,english,yes,hs or lower,no,jan thru mar
+27900,employed,40,white,57,female,yes,10,other,yes,hs or lower,no,jan thru mar
+NA,NA,NA,asian,3,male,yes,NA,NA,no,hs or lower,no,jul thru sep
+NA,NA,NA,white,3,male,yes,NA,NA,no,hs or lower,no,jul thru sep
+43000,employed,40,white,37,male,yes,25,english,yes,hs or lower,no,oct thru dec
+0,not in labor force,NA,white,48,female,yes,NA,english,yes,hs or lower,no,apr thru jun
+4300,employed,20,white,26,male,yes,20,english,no,hs or lower,no,oct thru dec
+0,not in labor force,NA,white,62,female,yes,NA,english,yes,college,no,oct thru dec
+26000,employed,50,white,53,male,yes,15,english,yes,hs or lower,no,jan thru mar
+30000,employed,40,white,28,female,yes,10,english,no,college,no,jan thru mar
+80000,employed,50,white,33,female,yes,45,english,yes,grad,no,jul thru sep
+0,not in labor force,40,white,48,male,yes,NA,english,no,hs or lower,no,oct thru dec
+16000,employed,30,white,20,female,yes,5,english,no,hs or lower,no,jan thru mar
+189000,employed,50,white,53,male,yes,30,english,yes,grad,no,jan thru mar
+NA,NA,NA,white,6,male,yes,NA,english,no,hs or lower,no,apr thru jun
+37000,employed,45,white,64,male,yes,20,english,yes,hs or lower,no,oct thru dec
+0,employed,40,white,59,female,yes,NA,english,no,college,no,oct thru dec
+109000,employed,40,white,65,male,yes,20,other,no,hs or lower,yes,jan thru mar
+NA,NA,NA,other,11,female,yes,NA,other,no,hs or lower,no,jan thru mar
+0,not in labor force,NA,white,59,male,yes,NA,english,no,college,no,jul thru sep
+2000,employed,25,white,19,male,yes,5,english,no,hs or lower,no,jan thru mar
+29600,employed,37,white,54,female,yes,40,english,yes,college,no,apr thru jun
+0,not in labor force,NA,other,60,female,yes,NA,other,yes,hs or lower,no,jul thru sep
+NA,NA,NA,white,9,male,yes,NA,other,no,hs or lower,no,jul thru sep
+0,not in labor force,NA,black,42,female,no,NA,other,yes,hs or lower,yes,jul thru sep
+NA,NA,NA,white,14,male,yes,NA,other,no,hs or lower,no,jul thru sep
+2000,employed,30,white,26,female,yes,60,other,no,hs or lower,no,jul thru sep
+0,not in labor force,NA,white,46,male,yes,NA,english,yes,hs or lower,yes,jul thru sep
+11000,employed,20,white,63,female,yes,10,english,yes,hs or lower,no,oct thru dec
+NA,NA,NA,white,12,female,yes,NA,english,no,hs or lower,no,apr thru jun
+0,not in labor force,NA,white,79,male,yes,NA,english,yes,hs or lower,no,apr thru jun
+0,not in labor force,NA,white,74,male,no,NA,other,yes,hs or lower,yes,jul thru sep
+0,not in labor force,NA,other,43,female,no,NA,other,yes,hs or lower,no,oct thru dec
+12000,employed,40,white,65,female,yes,60,english,no,hs or lower,no,jan thru mar
+15000,employed,40,white,38,female,yes,20,other,no,hs or lower,no,jan thru mar
+0,unemployed,NA,white,22,male,yes,NA,other,no,hs or lower,no,oct thru dec
+NA,NA,NA,white,8,male,yes,NA,english,no,hs or lower,no,oct thru dec
+0,not in labor force,NA,other,51,female,no,NA,other,yes,hs or lower,no,jul thru sep
+0,not in labor force,NA,white,93,female,yes,NA,english,no,hs or lower,yes,apr thru jun
+0,not in labor force,NA,white,77,female,yes,NA,english,yes,hs or lower,no,jan thru mar
+0,not in labor force,NA,white,78,male,yes,NA,other,yes,hs or lower,yes,jul thru sep
+NA,NA,NA,white,13,male,yes,NA,english,no,hs or lower,no,oct thru dec
+NA,NA,NA,asian,12,female,yes,NA,other,no,hs or lower,no,apr thru jun
+NA,NA,NA,white,0,female,yes,NA,NA,no,NA,no,oct thru dec
+28000,employed,40,other,47,female,yes,NA,other,yes,grad,no,jan thru mar
+NA,NA,NA,black,14,male,yes,NA,english,no,hs or lower,no,apr thru jun
+0,not in labor force,NA,white,61,female,no,NA,other,yes,hs or lower,yes,jul thru sep
+NA,NA,NA,other,4,female,yes,NA,NA,no,hs or lower,no,oct thru dec
+450000,employed,55,white,65,male,yes,10,english,yes,grad,no,jan thru mar
+0,not in labor force,NA,asian,55,female,yes,NA,other,no,hs or lower,no,oct thru dec
+0,not in labor force,NA,white,17,male,yes,NA,english,no,hs or lower,no,jul thru sep
+8000,employed,20,white,33,male,yes,30,english,no,hs or lower,no,apr thru jun
+18000,employed,49,black,43,female,yes,5,english,yes,hs or lower,no,apr thru jun
+0,not in labor force,NA,other,44,male,yes,NA,other,no,hs or lower,yes,apr thru jun
+0,employed,30,black,37,female,yes,75,english,no,hs or lower,yes,oct thru dec
+NA,NA,NA,other,1,female,yes,NA,NA,no,NA,no,jul thru sep
+NA,NA,NA,white,0,male,yes,NA,NA,no,NA,no,oct thru dec
+18000,employed,30,white,25,female,yes,15,english,no,college,no,apr thru jun
+27000,employed,40,white,42,female,yes,20,english,yes,hs or lower,no,apr thru jun
+0,not in labor force,NA,white,59,female,yes,NA,english,yes,hs or lower,yes,jul thru sep
+0,not in labor force,NA,white,78,male,yes,NA,english,no,hs or lower,no,jan thru mar
+12000,employed,24,white,26,female,yes,20,other,no,hs or lower,no,jul thru sep
+5000,employed,40,asian,20,female,yes,NA,english,no,hs or lower,no,jul thru sep
+41000,employed,40,white,38,female,yes,30,english,yes,college,no,jan thru mar
+0,not in labor force,NA,white,66,female,yes,NA,english,yes,hs or lower,no,jul thru sep
+0,not in labor force,NA,other,16,male,yes,NA,english,no,hs or lower,no,oct thru dec
+0,not in labor force,NA,asian,76,female,yes,NA,other,yes,hs or lower,yes,jul thru sep
+90000,employed,40,white,38,male,yes,10,english,yes,college,no,jul thru sep
+60000,employed,45,white,49,male,yes,20,other,no,hs or lower,no,jul thru sep
+30000,employed,40,white,35,female,no,40,other,no,college,no,oct thru dec
+0,unemployed,NA,white,64,male,yes,NA,english,no,hs or lower,yes,oct thru dec
+10000,employed,40,white,23,female,yes,10,english,no,hs or lower,no,jul thru sep
+0,not in labor force,NA,white,75,female,yes,NA,english,no,grad,no,jul thru sep
+50000,employed,80,white,48,female,yes,7,english,yes,college,no,oct thru dec
+0,not in labor force,NA,white,79,male,yes,NA,english,no,hs or lower,yes,oct thru dec
+24000,employed,40,white,30,female,yes,15,english,yes,hs or lower,no,apr thru jun
+88000,employed,40,white,27,male,yes,35,english,no,college,no,jan thru mar
+18000,employed,40,other,54,female,yes,5,english,yes,hs or lower,no,apr thru jun
+0,NA,NA,black,15,male,yes,NA,english,no,hs or lower,no,jul thru sep
+15600,employed,40,white,47,female,yes,15,english,yes,hs or lower,no,apr thru jun
+12000,employed,30,white,60,female,yes,10,english,yes,hs or lower,no,oct thru dec
+30000,employed,60,other,27,female,yes,20,other,no,grad,no,oct thru dec
+0,employed,40,white,58,male,yes,15,english,yes,hs or lower,no,apr thru jun
+80000,employed,40,asian,51,male,yes,25,other,yes,college,no,jan thru mar
+0,not in labor force,NA,white,28,female,yes,NA,english,no,hs or lower,no,jan thru mar
+0,not in labor force,NA,asian,59,female,no,NA,other,yes,hs or lower,yes,jan thru mar
+NA,NA,NA,other,8,male,yes,NA,english,no,hs or lower,no,jan thru mar
+11400,employed,40,white,54,female,yes,3,english,yes,hs or lower,no,jan thru mar
+0,not in labor force,NA,white,68,male,yes,NA,english,yes,hs or lower,no,jul thru sep
+10000,unemployed,36,black,21,female,yes,NA,english,no,hs or lower,no,oct thru dec
+0,not in labor force,45,white,57,male,yes,NA,english,yes,grad,no,jan thru mar
+0,not in labor force,NA,white,69,female,yes,NA,english,yes,college,no,oct thru dec
+0,NA,NA,white,15,female,yes,NA,english,no,hs or lower,no,oct thru dec
+345000,employed,70,white,51,male,yes,60,english,yes,grad,no,jan thru mar
+12300,employed,40,white,43,female,yes,60,english,no,hs or lower,no,jan thru mar
+75000,employed,45,white,47,male,yes,30,english,yes,hs or lower,no,apr thru jun
+NA,NA,NA,other,2,female,yes,NA,NA,no,NA,no,jul thru sep
+22000,employed,40,asian,42,male,yes,25,other,yes,hs or lower,no,apr thru jun
+0,employed,35,white,22,female,yes,60,english,no,hs or lower,no,apr thru jun
+11000,employed,35,white,22,male,yes,7,english,no,hs or lower,no,jan thru mar
+25200,employed,40,white,25,male,yes,5,english,no,hs or lower,no,jul thru sep
+0,not in labor force,NA,other,83,female,yes,NA,other,no,hs or lower,yes,jul thru sep
+1600,employed,15,white,18,female,yes,10,english,no,hs or lower,no,jul thru sep
+0,not in labor force,NA,white,65,male,yes,NA,english,yes,college,yes,oct thru dec
+20000,employed,40,white,49,male,yes,25,english,no,hs or lower,no,oct thru dec
+0,not in labor force,NA,white,78,male,yes,NA,english,yes,hs or lower,no,apr thru jun
+4500,employed,20,white,58,male,yes,5,english,no,hs or lower,no,oct thru dec
+0,not in labor force,NA,asian,63,male,yes,NA,english,no,college,no,jan thru mar
+0,not in labor force,NA,other,33,female,yes,NA,english,no,hs or lower,yes,oct thru dec
+NA,NA,NA,white,3,male,yes,NA,NA,no,hs or lower,no,apr thru jun
+0,not in labor force,NA,white,74,female,yes,NA,english,no,hs or lower,no,jan thru mar
+5300,employed,40,black,52,female,yes,7,english,no,hs or lower,no,jan thru mar
+16800,employed,40,white,67,female,yes,20,english,no,hs or lower,yes,jul thru sep
+32000,employed,40,black,50,male,yes,15,english,yes,hs or lower,no,oct thru dec
+0,not in labor force,NA,white,77,female,yes,NA,english,no,hs or lower,yes,oct thru dec
+0,not in labor force,NA,white,93,female,yes,NA,english,no,hs or lower,yes,jan thru mar
+NA,NA,NA,white,14,female,yes,NA,english,no,hs or lower,no,oct thru dec
+NA,NA,NA,white,0,male,yes,NA,NA,no,NA,no,jul thru sep
+0,not in labor force,NA,white,56,female,no,NA,other,yes,hs or lower,no,jul thru sep
+0,not in labor force,NA,white,61,female,yes,NA,english,yes,hs or lower,no,jul thru sep
+110,unemployed,2,black,24,male,yes,NA,english,no,hs or lower,no,apr thru jun
+NA,NA,NA,white,8,male,yes,NA,english,no,hs or lower,no,apr thru jun
+0,unemployed,NA,black,24,male,yes,NA,english,no,hs or lower,yes,jul thru sep
+NA,NA,NA,white,12,male,yes,NA,english,no,hs or lower,no,jul thru sep
+0,not in labor force,NA,white,68,female,yes,NA,english,no,hs or lower,no,jan thru mar
+NA,NA,NA,white,12,male,yes,NA,english,no,hs or lower,no,apr thru jun
+0,not in labor force,NA,white,81,female,yes,NA,english,no,hs or lower,no,jan thru mar
+45000,employed,40,black,57,male,yes,25,english,no,hs or lower,no,jul thru sep
+0,not in labor force,NA,white,82,female,yes,NA,other,no,hs or lower,no,jan thru mar
+0,not in labor force,NA,white,33,female,yes,NA,english,yes,college,no,oct thru dec
+125000,employed,60,white,61,male,yes,45,english,yes,hs or lower,yes,jul thru sep
+0,not in labor force,NA,white,66,female,yes,NA,english,no,hs or lower,yes,jul thru sep
+90000,employed,40,white,62,female,yes,20,english,yes,hs or lower,no,oct thru dec
+0,employed,50,white,27,female,yes,NA,english,yes,hs or lower,no,jul thru sep
+0,not in labor force,NA,white,39,male,yes,NA,english,no,hs or lower,yes,jan thru mar
+NA,NA,NA,other,5,male,yes,NA,english,no,hs or lower,no,jul thru sep
+10500,unemployed,35,white,46,male,yes,NA,other,yes,hs or lower,no,apr thru jun
+0,not in labor force,NA,white,67,male,yes,NA,english,yes,grad,no,oct thru dec
+0,not in labor force,NA,white,74,male,yes,NA,english,yes,hs or lower,yes,apr thru jun
+NA,NA,NA,white,5,male,yes,NA,english,no,hs or lower,no,jul thru sep
+20000,employed,40,white,28,male,yes,60,other,yes,college,no,jul thru sep
+26000,employed,40,white,31,female,yes,5,english,yes,hs or lower,no,oct thru dec
+32000,employed,40,black,57,female,yes,10,english,no,hs or lower,no,jan thru mar
+6000,unemployed,16,asian,26,male,yes,NA,english,no,college,no,jul thru sep
+0,not in labor force,NA,white,17,male,yes,NA,other,no,hs or lower,no,jan thru mar
+5000,not in labor force,35,white,70,female,yes,NA,english,yes,hs or lower,no,apr thru jun
+0,not in labor force,NA,asian,67,male,yes,NA,other,yes,grad,yes,jul thru sep
+39000,employed,40,black,42,male,yes,10,english,yes,hs or lower,no,apr thru jun
+0,not in labor force,NA,white,60,male,yes,NA,english,yes,hs or lower,no,jan thru mar
+NA,NA,NA,white,8,male,yes,NA,english,no,hs or lower,no,oct thru dec
+52000,employed,40,white,52,male,yes,10,english,yes,hs or lower,no,oct thru dec
+40000,employed,40,white,37,male,yes,25,english,yes,hs or lower,no,apr thru jun
+42500,not in labor force,40,white,36,female,yes,NA,english,yes,college,no,oct thru dec
+NA,NA,NA,asian,11,male,yes,NA,other,no,hs or lower,no,apr thru jun
+44000,employed,40,white,33,female,yes,25,english,yes,college,no,oct thru dec
+0,not in labor force,NA,white,39,female,yes,NA,english,yes,hs or lower,no,oct thru dec
+0,not in labor force,NA,white,57,male,yes,NA,english,no,hs or lower,yes,jul thru sep
+NA,NA,NA,white,11,male,yes,NA,english,no,hs or lower,no,jul thru sep
+58000,employed,53,white,32,male,yes,15,english,yes,grad,no,apr thru jun
+3500,employed,40,white,34,male,yes,35,english,no,hs or lower,no,oct thru dec
+0,not in labor force,NA,white,88,male,yes,NA,english,yes,hs or lower,no,jul thru sep
+NA,NA,NA,white,9,male,yes,NA,english,no,hs or lower,no,jul thru sep
+24000,employed,40,white,33,male,yes,15,english,yes,hs or lower,no,oct thru dec
+56000,employed,40,black,52,female,yes,20,other,no,grad,no,jan thru mar
+NA,NA,NA,white,7,male,yes,NA,english,no,hs or lower,no,oct thru dec
+0,not in labor force,NA,white,74,male,yes,NA,other,no,hs or lower,no,oct thru dec
+NA,NA,NA,other,7,female,yes,NA,english,no,hs or lower,no,oct thru dec
+80000,employed,40,white,68,male,yes,40,other,yes,college,no,apr thru jun
+0,not in labor force,NA,white,64,female,yes,NA,english,yes,hs or lower,no,jan thru mar
+0,employed,60,white,49,male,yes,NA,english,yes,hs or lower,no,jan thru mar
+0,not in labor force,NA,asian,53,female,yes,NA,other,no,hs or lower,yes,apr thru jun
+24300,employed,40,white,60,female,yes,25,english,no,hs or lower,no,oct thru dec
+9400,employed,40,white,27,male,yes,60,other,no,hs or lower,no,jul thru sep
+15000,employed,70,asian,36,female,yes,5,other,no,hs or lower,no,jan thru mar
+18500,employed,40,other,24,male,no,20,other,no,hs or lower,no,apr thru jun
+0,not in labor force,NA,black,56,male,yes,NA,english,no,hs or lower,no,jul thru sep
+48000,employed,40,white,56,male,yes,45,english,no,college,no,jan thru mar
+NA,NA,NA,black,2,male,yes,NA,NA,no,NA,no,apr thru jun
+NA,NA,NA,white,11,female,yes,NA,english,no,hs or lower,no,jul thru sep
+250000,employed,45,white,57,male,yes,20,english,yes,grad,no,apr thru jun
+0,not in labor force,NA,white,32,male,yes,NA,english,yes,grad,no,oct thru dec
+70000,employed,40,asian,63,female,yes,15,other,yes,college,yes,jan thru mar
+2000,employed,12,white,22,female,yes,5,english,no,hs or lower,no,oct thru dec
+48000,employed,40,white,56,male,yes,10,english,yes,grad,no,jan thru mar
+105000,employed,40,white,43,male,yes,NA,english,no,hs or lower,no,apr thru jun
+0,not in labor force,NA,white,76,male,yes,NA,english,no,hs or lower,yes,jul thru sep
+0,employed,20,white,48,female,yes,15,english,yes,college,no,apr thru jun
+NA,NA,NA,white,5,male,yes,NA,english,no,hs or lower,no,oct thru dec
+0,not in labor force,NA,asian,19,male,no,NA,other,no,hs or lower,no,jan thru mar
+18000,employed,40,white,44,male,yes,1,other,no,grad,no,jul thru sep
+0,not in labor force,NA,black,59,female,yes,NA,english,no,hs or lower,yes,oct thru dec
+NA,NA,NA,black,7,female,yes,NA,english,no,hs or lower,no,oct thru dec
+42000,employed,40,white,38,male,yes,20,english,yes,hs or lower,no,jan thru mar
+NA,NA,NA,asian,12,female,yes,NA,other,no,hs or lower,no,oct thru dec
+NA,NA,NA,white,14,female,yes,NA,english,no,hs or lower,no,jan thru mar
+0,not in labor force,NA,white,21,male,yes,NA,english,no,hs or lower,no,jan thru mar
+46100,employed,40,white,58,female,yes,15,english,yes,hs or lower,no,jan thru mar
+3000,employed,10,white,24,male,yes,20,english,yes,college,no,apr thru jun
+31100,employed,40,black,50,female,no,30,other,yes,hs or lower,no,jul thru sep
+42000,employed,40,white,52,female,yes,10,english,yes,hs or lower,no,apr thru jun
+30000,employed,55,asian,24,female,yes,40,other,no,college,no,oct thru dec
+0,NA,NA,white,15,male,yes,NA,english,no,hs or lower,no,apr thru jun
+0,unemployed,NA,white,27,male,yes,NA,english,no,college,no,jan thru mar
+0,not in labor force,NA,white,53,female,no,NA,other,yes,hs or lower,no,jul thru sep
+0,not in labor force,NA,other,89,male,yes,NA,other,yes,hs or lower,yes,jan thru mar
+0,not in labor force,NA,white,74,female,yes,NA,english,no,hs or lower,no,apr thru jun
+100,unemployed,4,white,33,male,yes,NA,english,no,hs or lower,no,oct thru dec
+35000,employed,40,white,33,male,yes,23,other,yes,hs or lower,no,apr thru jun
+0,not in labor force,NA,white,64,female,yes,NA,english,yes,college,no,oct thru dec
+40000,not in labor force,55,white,62,male,yes,NA,english,yes,hs or lower,yes,oct thru dec
+50000,employed,50,other,45,male,yes,15,english,yes,hs or lower,no,jan thru mar
+53000,employed,38,white,28,male,yes,10,english,no,college,no,oct thru dec
+NA,NA,NA,white,0,male,yes,NA,NA,no,NA,no,jul thru sep
+900,unemployed,25,black,19,female,yes,NA,english,no,hs or lower,no,oct thru dec
+0,not in labor force,NA,white,61,female,yes,NA,english,yes,grad,no,apr thru jun
+0,not in labor force,NA,other,17,male,yes,NA,other,no,hs or lower,no,oct thru dec
+1300,employed,5,white,21,female,yes,5,english,no,hs or lower,no,jul thru sep
+NA,NA,NA,white,3,male,yes,NA,NA,no,hs or lower,no,jul thru sep
+NA,NA,NA,white,0,male,yes,NA,NA,no,NA,no,jan thru mar
+NA,NA,NA,white,6,female,yes,NA,english,no,hs or lower,no,apr thru jun
+0,not in labor force,NA,white,44,female,no,NA,english,yes,hs or lower,no,jan thru mar
+60000,employed,40,white,48,male,yes,10,english,yes,hs or lower,no,jan thru mar
+NA,NA,NA,white,8,female,yes,NA,english,no,hs or lower,no,apr thru jun
+NA,NA,NA,white,0,female,yes,NA,NA,no,NA,no,apr thru jun
+5000,unemployed,40,other,38,female,no,NA,other,yes,hs or lower,no,oct thru dec
+0,not in labor force,NA,other,16,female,yes,NA,other,no,hs or lower,no,apr thru jun
+30000,employed,45,white,28,female,yes,10,english,no,hs or lower,no,jan thru mar
+NA,NA,NA,black,10,female,yes,NA,english,no,hs or lower,no,jan thru mar
+0,not in labor force,NA,asian,24,female,no,NA,other,yes,hs or lower,no,apr thru jun
+NA,NA,NA,white,3,female,yes,NA,NA,no,hs or lower,no,jan thru mar
+0,not in labor force,NA,other,68,female,yes,NA,other,yes,hs or lower,no,apr thru jun
+NA,NA,NA,white,5,female,yes,NA,english,no,hs or lower,yes,jul thru sep
+0,not in labor force,NA,white,54,female,yes,NA,english,yes,hs or lower,no,jan thru mar
+0,not in labor force,NA,white,73,male,yes,NA,other,yes,hs or lower,no,apr thru jun
+33900,employed,40,white,46,male,yes,45,english,yes,college,yes,oct thru dec
+0,not in labor force,NA,white,28,female,yes,NA,english,yes,college,no,jul thru sep
+0,not in labor force,NA,white,64,male,yes,NA,english,yes,hs or lower,no,jan thru mar
+63000,employed,40,white,61,female,yes,15,english,no,college,no,apr thru jun
+45000,employed,42,white,31,male,yes,30,english,yes,hs or lower,no,oct thru dec
+50000,employed,50,white,29,male,yes,45,other,no,college,no,jul thru sep
+62000,employed,40,white,49,male,yes,30,english,yes,hs or lower,no,jul thru sep
+65000,employed,43,white,50,male,yes,45,english,yes,hs or lower,no,jan thru mar
+0,unemployed,NA,white,37,female,yes,NA,english,yes,college,yes,jul thru sep
+15000,employed,30,black,44,female,yes,5,english,no,hs or lower,yes,oct thru dec
+13700,employed,37,white,29,male,yes,5,english,no,college,no,apr thru jun
+15000,employed,32,white,56,female,yes,15,english,no,hs or lower,no,jan thru mar
+2000,not in labor force,38,white,26,female,yes,NA,english,yes,hs or lower,no,jan thru mar
+1200,employed,25,white,32,female,yes,45,english,yes,hs or lower,no,apr thru jun
+35000,employed,30,white,56,female,yes,60,english,yes,grad,no,jan thru mar
+0,not in labor force,NA,white,77,male,yes,NA,english,yes,hs or lower,yes,oct thru dec
+50000,employed,40,white,37,male,yes,20,english,no,hs or lower,no,apr thru jun
+0,not in labor force,40,other,53,female,yes,NA,other,yes,hs or lower,no,jan thru mar
+NA,NA,NA,other,6,male,yes,NA,other,no,hs or lower,no,jul thru sep
+0,NA,NA,asian,15,female,yes,NA,other,no,hs or lower,no,apr thru jun
+17000,employed,40,other,33,female,yes,30,english,no,hs or lower,no,oct thru dec
+57000,employed,50,white,55,male,yes,60,english,yes,hs or lower,no,apr thru jun
+0,not in labor force,NA,white,44,female,yes,NA,english,no,college,no,oct thru dec
+16000,employed,40,white,18,male,no,5,other,no,hs or lower,no,jan thru mar
+NA,NA,NA,white,5,male,yes,NA,english,no,hs or lower,no,jan thru mar
+0,not in labor force,NA,other,70,female,yes,NA,other,no,hs or lower,yes,apr thru jun
+0,not in labor force,NA,asian,39,female,no,NA,other,yes,hs or lower,no,jan thru mar
+2500,employed,35,white,24,female,yes,10,other,no,hs or lower,no,oct thru dec
+0,not in labor force,NA,white,65,female,yes,NA,english,no,hs or lower,no,jan thru mar
+10000,employed,25,white,20,female,yes,10,english,no,hs or lower,no,apr thru jun
+79000,employed,40,white,46,female,yes,60,english,no,college,no,apr thru jun
+0,employed,8,other,49,female,no,45,other,no,hs or lower,no,jan thru mar
+NA,NA,NA,white,12,female,yes,NA,english,no,hs or lower,no,oct thru dec
+35000,employed,40,white,38,male,yes,45,english,yes,hs or lower,no,apr thru jun
+0,not in labor force,NA,white,70,male,yes,NA,english,yes,grad,no,jul thru sep
+41000,employed,40,white,56,male,yes,15,english,yes,hs or lower,no,jul thru sep
+49000,employed,45,white,39,female,yes,15,english,no,hs or lower,no,oct thru dec
+NA,NA,NA,white,3,male,yes,NA,NA,no,hs or lower,no,jan thru mar
+0,unemployed,NA,white,33,female,no,NA,other,yes,hs or lower,no,oct thru dec
+200,employed,15,white,36,female,yes,5,english,yes,hs or lower,no,jan thru mar
+NA,NA,NA,white,14,female,yes,NA,english,no,hs or lower,no,apr thru jun
+45000,employed,40,white,27,male,yes,15,english,no,grad,no,jul thru sep
+59000,employed,40,black,32,female,yes,NA,english,no,college,no,jan thru mar
+0,employed,35,white,32,male,no,5,other,yes,hs or lower,no,jan thru mar
+0,not in labor force,NA,white,62,female,yes,NA,english,yes,hs or lower,no,apr thru jun
+6000,employed,30,other,18,female,no,60,other,no,hs or lower,no,oct thru dec
+NA,NA,NA,white,8,female,yes,NA,other,no,hs or lower,no,jul thru sep
+62000,employed,40,white,50,male,yes,25,english,yes,college,no,jul thru sep
+45000,employed,45,white,38,male,yes,45,english,yes,college,no,jul thru sep
+0,employed,60,white,58,female,yes,40,other,no,grad,yes,apr thru jun
+100000,employed,50,white,47,male,yes,NA,english,yes,college,no,jan thru mar
+65000,employed,45,white,54,male,yes,10,english,no,hs or lower,no,jul thru sep
+5800,employed,20,white,50,female,yes,20,english,no,hs or lower,no,oct thru dec
+50000,employed,40,white,24,female,yes,45,english,no,college,no,jul thru sep
+680,employed,5,white,19,female,yes,5,english,no,hs or lower,no,jul thru sep
+0,not in labor force,NA,white,75,male,yes,NA,english,no,hs or lower,yes,oct thru dec
+0,unemployed,NA,other,56,female,yes,NA,other,no,hs or lower,no,apr thru jun
+NA,NA,NA,other,6,female,yes,NA,english,no,hs or lower,no,jul thru sep
+12000,employed,40,white,55,male,yes,15,english,no,hs or lower,no,jan thru mar
+74000,employed,50,other,38,female,yes,30,other,yes,college,no,jan thru mar
+0,not in labor force,NA,white,70,male,yes,NA,english,yes,hs or lower,yes,jul thru sep
+0,unemployed,NA,asian,19,female,no,NA,other,no,hs or lower,no,apr thru jun
+0,not in labor force,NA,white,76,male,yes,NA,english,no,grad,no,oct thru dec
+0,not in labor force,NA,white,48,female,yes,NA,english,yes,hs or lower,no,jul thru sep
+40000,employed,40,white,53,male,yes,NA,english,yes,college,yes,apr thru jun
+3000,employed,25,white,19,female,yes,2,english,no,hs or lower,no,jul thru sep
+0,not in labor force,NA,white,66,female,yes,NA,english,yes,college,no,jan thru mar
+24700,employed,50,black,24,female,yes,35,english,no,college,no,jul thru sep
+NA,NA,NA,white,8,male,yes,NA,english,no,hs or lower,no,apr thru jun
+0,not in labor force,NA,black,66,male,no,NA,other,no,hs or lower,no,jan thru mar
+NA,NA,NA,white,12,male,yes,NA,english,no,hs or lower,no,oct thru dec
+30000,unemployed,40,other,24,female,yes,NA,english,no,college,no,apr thru jun
+NA,NA,NA,white,7,male,yes,NA,other,no,hs or lower,no,jan thru mar
+9600,employed,37,white,44,female,yes,10,other,yes,hs or lower,no,jan thru mar
+0,not in labor force,NA,other,75,male,yes,NA,other,yes,hs or lower,yes,jan thru mar
+20000,employed,45,white,33,male,yes,15,english,yes,hs or lower,no,oct thru dec
+0,employed,40,white,46,male,yes,NA,english,yes,college,no,oct thru dec
+20000,employed,30,white,48,female,yes,15,english,no,hs or lower,no,oct thru dec
+NA,NA,NA,white,10,male,yes,NA,other,no,hs or lower,no,oct thru dec
+0,not in labor force,NA,white,60,female,yes,NA,other,yes,hs or lower,no,oct thru dec
+35000,employed,50,white,47,male,yes,5,english,yes,grad,no,jan thru mar
+NA,NA,NA,white,13,male,yes,NA,english,no,hs or lower,no,apr thru jun
+11000,employed,40,black,53,female,yes,NA,english,no,hs or lower,no,apr thru jun
+20000,employed,35,white,28,female,yes,10,english,no,hs or lower,no,apr thru jun
+NA,NA,NA,white,9,female,yes,NA,other,no,hs or lower,no,jul thru sep
+0,NA,NA,white,15,male,yes,NA,english,no,hs or lower,no,jul thru sep
+0,not in labor force,NA,white,63,female,yes,NA,english,yes,grad,no,jul thru sep
+75000,employed,40,asian,29,male,no,60,other,yes,college,no,jul thru sep
+NA,NA,NA,white,6,female,yes,NA,other,no,hs or lower,no,apr thru jun
+NA,NA,NA,white,9,female,yes,NA,english,no,hs or lower,no,jul thru sep
+3500,not in labor force,25,white,18,female,yes,NA,english,no,hs or lower,no,jul thru sep
+NA,NA,NA,white,11,male,yes,NA,english,no,hs or lower,no,jul thru sep
+40000,employed,32,white,50,female,yes,10,english,yes,hs or lower,no,apr thru jun
+0,not in labor force,NA,white,68,female,yes,NA,english,yes,college,yes,apr thru jun
+0,not in labor force,NA,white,50,female,yes,NA,english,yes,hs or lower,no,oct thru dec
+0,not in labor force,NA,white,38,female,yes,NA,english,yes,college,no,jul thru sep
+0,not in labor force,NA,white,73,female,yes,NA,other,yes,college,yes,oct thru dec
+0,not in labor force,NA,white,54,female,yes,NA,english,yes,college,no,jan thru mar
+110000,employed,60,white,52,female,yes,70,english,yes,college,no,oct thru dec
+NA,NA,NA,black,11,female,yes,NA,other,no,hs or lower,no,apr thru jun
+30000,employed,40,black,44,male,yes,20,english,no,hs or lower,no,jan thru mar
+0,not in labor force,NA,asian,22,female,no,NA,other,no,hs or lower,no,apr thru jun
+48000,employed,40,other,37,female,yes,60,english,no,hs or lower,no,jan thru mar
+850,employed,6,white,19,female,yes,10,english,no,hs or lower,no,apr thru jun
+NA,NA,NA,white,5,male,yes,NA,other,no,hs or lower,no,apr thru jun
+38900,employed,40,white,68,male,yes,50,english,yes,hs or lower,no,oct thru dec
+0,not in labor force,NA,white,61,female,yes,NA,english,no,college,no,oct thru dec
+NA,NA,NA,white,2,female,yes,NA,NA,no,NA,no,apr thru jun
+65000,employed,35,black,46,female,yes,60,english,no,hs or lower,yes,apr thru jun
+0,not in labor force,NA,white,71,female,yes,NA,english,no,college,no,apr thru jun
+0,not in labor force,NA,white,79,female,yes,NA,english,yes,hs or lower,no,apr thru jun
+0,not in labor force,NA,white,76,female,yes,NA,english,yes,hs or lower,no,jan thru mar
+0,not in labor force,NA,white,71,male,yes,NA,english,yes,hs or lower,no,jan thru mar
+0,not in labor force,NA,asian,34,female,no,NA,other,yes,college,no,apr thru jun
+NA,NA,NA,white,0,female,yes,NA,NA,no,NA,no,jan thru mar
+NA,NA,NA,white,3,male,yes,NA,NA,no,hs or lower,no,jul thru sep
+0,not in labor force,30,white,40,male,yes,NA,english,no,hs or lower,no,apr thru jun
+0,not in labor force,NA,white,75,female,yes,NA,other,no,hs or lower,yes,oct thru dec
+0,employed,40,white,59,male,no,60,other,yes,hs or lower,no,jul thru sep
+75000,employed,36,black,62,male,yes,30,english,yes,college,no,jan thru mar
+NA,NA,NA,white,5,male,yes,NA,english,no,hs or lower,no,jul thru sep
+0,not in labor force,NA,white,52,female,yes,NA,english,no,hs or lower,yes,oct thru dec
+0,employed,25,white,54,female,yes,5,english,yes,hs or lower,no,apr thru jun
+0,not in labor force,NA,black,27,male,yes,NA,english,no,hs or lower,no,jul thru sep
+31200,employed,46,black,62,female,yes,6,english,yes,hs or lower,no,jan thru mar
+0,not in labor force,NA,white,81,female,yes,NA,english,no,hs or lower,yes,oct thru dec
+105000,employed,60,white,54,male,yes,90,english,yes,college,no,jan thru mar
+NA,NA,NA,white,11,female,yes,NA,english,no,hs or lower,no,apr thru jun
+24000,employed,40,other,28,male,no,90,other,no,hs or lower,no,oct thru dec
+NA,NA,NA,white,6,female,yes,NA,english,no,hs or lower,no,jan thru mar
+0,unemployed,NA,white,76,female,yes,NA,english,no,hs or lower,no,jan thru mar
+0,not in labor force,NA,white,59,female,yes,NA,english,no,hs or lower,yes,jan thru mar
+64000,employed,45,white,46,female,yes,20,english,yes,grad,no,oct thru dec
+0,not in labor force,NA,white,26,female,no,NA,english,no,college,no,oct thru dec
+0,not in labor force,NA,white,46,male,yes,NA,english,no,college,no,jul thru sep
+80000,employed,40,white,53,male,yes,55,english,yes,hs or lower,no,apr thru jun
+22000,employed,80,white,53,male,yes,15,english,yes,hs or lower,no,jan thru mar
+2000,unemployed,25,black,18,female,yes,NA,english,no,hs or lower,no,jan thru mar
+0,employed,40,white,29,male,yes,15,english,yes,hs or lower,no,jul thru sep
+26000,employed,35,white,62,male,yes,15,english,yes,college,yes,oct thru dec
+0,not in labor force,NA,white,62,male,yes,NA,english,yes,hs or lower,no,oct thru dec
+0,not in labor force,NA,white,65,female,yes,NA,other,yes,hs or lower,no,oct thru dec
+17000,employed,32,white,53,male,yes,16,english,no,college,no,jan thru mar
+0,not in labor force,NA,white,34,female,no,NA,other,yes,hs or lower,no,jan thru mar
+0,not in labor force,NA,white,17,male,yes,NA,other,no,hs or lower,no,oct thru dec
+30000,employed,46,white,34,male,yes,35,english,yes,hs or lower,no,jul thru sep
+0,not in labor force,NA,white,72,female,yes,NA,english,no,hs or lower,yes,apr thru jun
+65000,employed,40,white,49,male,yes,30,english,yes,hs or lower,no,apr thru jun
+NA,NA,NA,white,13,female,yes,NA,other,no,hs or lower,no,jul thru sep
+0,not in labor force,NA,white,61,female,no,NA,other,no,grad,no,jul thru sep
+0,not in labor force,NA,asian,77,female,yes,NA,other,no,hs or lower,no,apr thru jun
+48000,employed,50,white,41,male,yes,15,english,yes,hs or lower,no,jul thru sep
+19000,employed,40,white,39,female,yes,30,english,yes,hs or lower,no,oct thru dec
+0,not in labor force,NA,other,70,female,yes,NA,other,no,hs or lower,no,jul thru sep
+0,not in labor force,NA,white,67,male,yes,NA,english,yes,college,no,jan thru mar
+44000,employed,40,white,60,male,yes,10,english,yes,hs or lower,no,jul thru sep
+38000,employed,40,other,40,male,yes,10,other,no,hs or lower,no,jul thru sep
+29000,employed,40,white,53,female,yes,25,english,yes,hs or lower,no,apr thru jun
+30000,employed,45,white,28,male,yes,30,english,yes,hs or lower,no,jan thru mar
+9500,unemployed,40,white,37,female,yes,NA,english,yes,hs or lower,no,jan thru mar
+0,not in labor force,NA,white,88,male,yes,NA,english,no,hs or lower,no,jul thru sep
+37000,employed,40,white,38,male,yes,5,english,no,college,no,apr thru jun
+0,not in labor force,NA,white,36,female,yes,NA,english,yes,hs or lower,no,jan thru mar
+1200,employed,17,black,50,male,yes,125,english,no,hs or lower,no,jul thru sep
+10000,unemployed,60,white,22,male,yes,NA,english,no,hs or lower,no,jul thru sep
+0,not in labor force,NA,white,74,male,yes,NA,other,yes,hs or lower,yes,jul thru sep
+NA,NA,NA,other,12,female,yes,NA,english,no,hs or lower,no,oct thru dec
+36500,employed,43,white,60,male,yes,90,english,no,college,no,oct thru dec
+111000,employed,40,white,43,male,yes,20,english,yes,college,no,apr thru jun
+6600,not in labor force,15,black,22,female,yes,NA,english,no,college,no,apr thru jun
+6000,not in labor force,40,white,22,male,yes,NA,english,no,hs or lower,no,jan thru mar
+0,not in labor force,NA,white,93,female,yes,NA,english,no,hs or lower,yes,jan thru mar
+52000,employed,55,white,37,male,yes,20,other,yes,hs or lower,no,jul thru sep
+13500,employed,44,white,64,male,yes,45,english,yes,hs or lower,no,oct thru dec
+10200,employed,25,white,70,female,yes,NA,english,no,hs or lower,no,apr thru jun
+NA,NA,NA,other,13,male,yes,NA,other,no,hs or lower,no,oct thru dec
+190,not in labor force,8,white,64,female,yes,NA,english,yes,hs or lower,no,jan thru mar
+0,NA,NA,white,15,male,yes,NA,english,no,hs or lower,no,jul thru sep
+0,not in labor force,NA,white,82,female,yes,NA,english,no,hs or lower,yes,apr thru jun
+10000,employed,30,white,30,female,yes,30,english,no,college,no,oct thru dec
+0,not in labor force,NA,white,86,male,yes,NA,english,yes,grad,yes,jan thru mar
+12600,employed,30,white,22,female,yes,30,english,no,hs or lower,no,oct thru dec
+47800,employed,40,white,33,female,yes,30,english,no,grad,no,jul thru sep
+0,employed,40,white,41,female,yes,10,english,yes,hs or lower,no,oct thru dec
+38000,employed,35,black,51,female,yes,163,english,yes,college,no,jul thru sep
+NA,NA,NA,white,11,female,yes,NA,english,no,hs or lower,no,oct thru dec
+102000,employed,40,asian,36,male,no,75,other,yes,grad,no,jan thru mar
+0,not in labor force,NA,white,50,female,no,NA,other,yes,hs or lower,no,jul thru sep
+0,not in labor force,NA,black,63,female,yes,NA,english,no,hs or lower,yes,apr thru jun
+15600,employed,25,asian,23,male,no,35,other,no,hs or lower,no,apr thru jun
+20000,employed,40,white,20,female,yes,10,english,no,hs or lower,no,oct thru dec
+NA,NA,NA,white,12,male,yes,NA,other,no,hs or lower,no,apr thru jun
+NA,NA,NA,black,0,female,yes,NA,NA,no,NA,no,jul thru sep
+18000,employed,50,white,51,female,yes,35,english,no,hs or lower,yes,jan thru mar
+NA,NA,NA,asian,11,female,yes,NA,other,no,hs or lower,no,oct thru dec
+32000,employed,40,white,51,male,yes,NA,english,yes,hs or lower,no,jul thru sep
+0,not in labor force,NA,white,77,female,yes,NA,english,no,hs or lower,no,jan thru mar
+0,not in labor force,NA,white,59,male,yes,NA,english,no,hs or lower,yes,apr thru jun
+8000,unemployed,25,other,18,female,yes,NA,other,no,hs or lower,no,jul thru sep
+0,not in labor force,NA,black,50,female,yes,NA,english,no,hs or lower,yes,apr thru jun
+NA,NA,NA,white,9,male,yes,NA,english,no,hs or lower,no,oct thru dec
+15000,employed,40,white,49,male,yes,15,english,no,hs or lower,yes,apr thru jun
+75000,employed,50,white,84,male,yes,18,english,yes,hs or lower,yes,oct thru dec
+23000,employed,40,white,35,male,yes,25,english,yes,hs or lower,no,jul thru sep
+35000,employed,40,white,60,male,yes,20,english,yes,hs or lower,no,oct thru dec
+0,unemployed,10,white,50,male,yes,NA,english,no,hs or lower,yes,oct thru dec
+0,not in labor force,NA,black,22,male,yes,NA,english,no,hs or lower,no,oct thru dec
+45000,employed,32,white,67,male,yes,15,english,yes,hs or lower,no,oct thru dec
+0,not in labor force,NA,white,69,male,yes,NA,english,yes,college,no,jan thru mar
+0,not in labor force,NA,white,80,male,yes,NA,english,yes,hs or lower,yes,jul thru sep
+1000,employed,25,white,17,male,yes,15,english,no,hs or lower,no,jul thru sep
+0,not in labor force,NA,white,60,male,yes,NA,english,yes,hs or lower,yes,jul thru sep
+0,not in labor force,NA,white,82,male,yes,NA,english,no,hs or lower,yes,apr thru jun
+0,not in labor force,NA,white,89,female,yes,NA,english,no,hs or lower,yes,apr thru jun
+0,not in labor force,NA,white,61,male,yes,NA,english,no,hs or lower,yes,jul thru sep
+22000,employed,30,white,66,male,yes,15,english,yes,hs or lower,no,oct thru dec
+19000,employed,50,white,23,male,yes,NA,english,no,hs or lower,no,jul thru sep
+0,not in labor force,5,asian,20,male,yes,NA,other,no,hs or lower,no,jul thru sep
+48000,employed,40,black,27,male,yes,15,english,no,grad,no,jan thru mar
+150000,employed,40,white,62,female,yes,75,english,yes,grad,no,jul thru sep
+50000,employed,40,asian,46,male,yes,40,other,yes,college,no,jan thru mar
+NA,NA,NA,white,12,female,yes,NA,english,no,hs or lower,no,jul thru sep
+130000,employed,60,white,49,male,yes,15,english,yes,grad,no,apr thru jun
+0,not in labor force,NA,white,63,female,yes,NA,english,yes,hs or lower,no,jan thru mar
+0,employed,30,white,56,male,yes,30,english,yes,hs or lower,yes,jan thru mar
+0,not in labor force,NA,asian,42,female,yes,NA,english,yes,hs or lower,no,apr thru jun
+NA,NA,NA,white,3,female,yes,NA,NA,no,hs or lower,no,jan thru mar
+35000,employed,40,white,76,male,yes,25,english,yes,grad,no,apr thru jun
+0,not in labor force,NA,white,16,female,yes,NA,english,no,hs or lower,no,apr thru jun
+8000,employed,16,white,23,female,yes,5,english,no,college,no,oct thru dec
+0,employed,60,white,49,male,yes,NA,english,no,hs or lower,no,oct thru dec
+0,not in labor force,NA,asian,74,male,no,NA,other,no,hs or lower,no,apr thru jun
+NA,NA,NA,black,9,female,yes,NA,other,no,hs or lower,no,jul thru sep
+NA,NA,NA,black,12,male,yes,NA,english,no,hs or lower,no,apr thru jun
+120000,employed,45,white,32,female,yes,30,english,yes,college,no,jan thru mar
+40000,employed,50,white,43,male,yes,95,english,yes,college,no,jul thru sep
+13800,employed,30,white,40,female,yes,15,english,no,college,yes,jul thru sep
+51000,employed,40,white,47,male,yes,40,english,yes,hs or lower,no,apr thru jun
+0,not in labor force,NA,white,33,male,yes,NA,english,no,hs or lower,yes,oct thru dec
+74000,employed,40,white,63,male,yes,60,english,yes,hs or lower,no,jan thru mar
+70000,employed,45,white,74,male,yes,60,other,yes,hs or lower,yes,jul thru sep
+0,not in labor force,NA,white,68,female,yes,NA,english,yes,college,no,oct thru dec
+0,employed,20,white,44,female,yes,NA,english,yes,college,no,apr thru jun
+92000,employed,50,white,58,male,yes,15,english,no,grad,no,apr thru jun
+NA,NA,NA,black,14,male,yes,NA,english,no,hs or lower,no,jan thru mar
+3700,unemployed,40,white,30,male,yes,NA,other,yes,hs or lower,no,oct thru dec
+0,unemployed,NA,black,60,male,no,NA,english,yes,hs or lower,no,apr thru jun
+1000,employed,15,white,16,female,yes,30,english,no,hs or lower,no,jan thru mar
+27000,employed,40,white,35,male,yes,20,english,yes,hs or lower,no,apr thru jun
+NA,NA,NA,white,5,male,yes,NA,other,no,hs or lower,no,jan thru mar
+64000,employed,40,white,64,female,yes,30,english,yes,college,no,jan thru mar
+60000,unemployed,40,white,53,male,yes,NA,english,no,college,no,apr thru jun
+0,not in labor force,NA,white,77,female,yes,NA,english,yes,college,no,oct thru dec
+23000,employed,38,white,57,female,yes,45,english,no,hs or lower,no,jul thru sep
+0,NA,NA,black,15,male,yes,NA,english,no,hs or lower,no,oct thru dec
+398000,employed,40,asian,43,male,no,30,other,yes,grad,no,jul thru sep
+3500,employed,40,white,20,female,yes,20,english,no,hs or lower,no,jan thru mar
+89000,employed,45,white,37,male,yes,6,english,yes,college,no,jul thru sep
+NA,NA,NA,white,5,female,yes,NA,other,no,hs or lower,no,jan thru mar
+48000,employed,50,white,30,male,yes,15,english,yes,hs or lower,no,jan thru mar
+52000,employed,40,white,38,male,yes,35,english,no,hs or lower,no,jul thru sep
+5800,employed,8,white,84,female,yes,17,english,yes,hs or lower,no,apr thru jun
+NA,NA,NA,white,14,male,yes,NA,english,no,hs or lower,no,jan thru mar
+NA,NA,NA,black,2,female,yes,NA,NA,no,NA,no,apr thru jun
+56000,employed,55,white,44,male,yes,30,english,yes,hs or lower,no,oct thru dec
+0,unemployed,NA,white,54,male,yes,NA,english,yes,grad,no,oct thru dec
+0,not in labor force,NA,white,74,male,yes,NA,english,no,hs or lower,no,apr thru jun
+0,not in labor force,NA,white,16,female,yes,NA,other,no,hs or lower,yes,jan thru mar
+NA,NA,NA,white,12,male,yes,NA,english,no,hs or lower,no,jul thru sep
+0,unemployed,NA,white,25,female,yes,NA,english,yes,college,no,apr thru jun
+63000,employed,36,white,39,female,yes,25,english,yes,college,no,jul thru sep
+3400,unemployed,40,white,16,female,yes,NA,other,no,hs or lower,no,jul thru sep
+7000,employed,40,white,19,male,yes,10,english,no,hs or lower,no,jan thru mar
+NA,NA,NA,white,2,male,yes,NA,NA,no,NA,no,apr thru jun
+0,employed,30,other,32,male,no,20,other,no,hs or lower,no,jul thru sep
+NA,NA,NA,other,8,male,yes,NA,other,no,hs or lower,no,jul thru sep
+0,not in labor force,NA,white,88,male,yes,NA,english,yes,hs or lower,yes,apr thru jun
+80000,employed,50,white,57,male,yes,25,english,no,college,no,apr thru jun
+NA,NA,NA,asian,6,female,no,NA,english,no,hs or lower,no,jan thru mar
+0,unemployed,NA,black,21,male,yes,NA,english,no,hs or lower,no,jul thru sep
+0,not in labor force,NA,white,69,female,yes,NA,english,no,hs or lower,yes,jul thru sep
+NA,NA,NA,white,10,male,yes,NA,other,no,hs or lower,no,jul thru sep
+0,not in labor force,NA,white,68,male,yes,NA,english,yes,hs or lower,yes,jul thru sep
+NA,NA,NA,black,8,female,yes,NA,english,no,hs or lower,no,apr thru jun
+NA,NA,NA,white,10,male,yes,NA,english,no,hs or lower,no,oct thru dec
+NA,NA,NA,white,14,female,yes,NA,english,no,hs or lower,no,jul thru sep
+0,not in labor force,NA,white,64,female,yes,NA,english,yes,grad,no,jul thru sep
+0,not in labor force,NA,white,30,female,no,NA,other,yes,hs or lower,no,apr thru jun
+69000,employed,50,white,35,female,yes,8,english,no,college,no,jul thru sep
+1200,employed,26,black,18,female,yes,25,english,no,hs or lower,no,oct thru dec
+NA,NA,NA,white,13,male,yes,NA,english,no,hs or lower,no,oct thru dec
+NA,NA,NA,white,7,female,yes,NA,other,no,hs or lower,no,oct thru dec
+NA,NA,NA,other,0,female,yes,NA,NA,no,NA,no,oct thru dec
+25000,employed,40,white,32,male,yes,45,english,yes,hs or lower,no,jan thru mar
+0,not in labor force,NA,white,65,male,yes,NA,english,yes,hs or lower,no,jan thru mar
+0,unemployed,NA,white,27,male,yes,NA,english,no,hs or lower,no,oct thru dec
+96000,employed,40,white,41,male,yes,20,english,yes,college,no,jan thru mar
+5000,unemployed,40,other,20,male,no,NA,other,no,hs or lower,no,jul thru sep
+NA,NA,NA,white,11,female,yes,NA,english,no,hs or lower,no,oct thru dec
+4900,employed,40,black,55,male,yes,60,english,yes,hs or lower,no,oct thru dec
+38500,employed,50,white,59,male,yes,30,english,yes,college,no,apr thru jun
+NA,NA,NA,white,9,male,yes,NA,english,no,hs or lower,no,oct thru dec
+NA,NA,NA,white,14,female,yes,NA,english,no,hs or lower,no,jan thru mar
+4800,employed,20,white,35,female,yes,15,other,yes,hs or lower,no,apr thru jun
+0,not in labor force,NA,white,78,male,yes,NA,english,no,hs or lower,no,jul thru sep
+35000,employed,40,white,53,male,yes,4,english,yes,hs or lower,no,oct thru dec
+34000,employed,50,white,25,male,yes,20,english,no,college,no,apr thru jun
+43000,employed,40,white,47,female,yes,15,other,yes,college,no,jan thru mar
+0,employed,20,white,72,male,yes,NA,english,yes,college,no,jan thru mar
+25400,employed,40,white,38,female,yes,22,english,no,hs or lower,no,apr thru jun
+0,employed,15,white,19,female,yes,20,english,no,hs or lower,no,oct thru dec
+36000,employed,40,asian,47,female,yes,10,other,yes,hs or lower,no,jul thru sep
+12300,employed,30,white,55,male,yes,10,english,yes,college,no,apr thru jun
+0,not in labor force,NA,white,75,male,yes,NA,english,yes,hs or lower,no,apr thru jun
+0,unemployed,NA,white,66,male,yes,NA,english,no,hs or lower,no,apr thru jun
+0,not in labor force,NA,white,17,female,yes,NA,english,no,hs or lower,no,oct thru dec
+0,unemployed,NA,white,18,female,yes,NA,english,no,hs or lower,yes,jan thru mar
+0,not in labor force,NA,black,20,male,yes,NA,english,no,hs or lower,no,apr thru jun
+0,not in labor force,NA,white,28,female,yes,NA,english,yes,hs or lower,no,apr thru jun
+30000,employed,20,white,34,male,yes,10,english,yes,hs or lower,no,apr thru jun
+0,not in labor force,NA,white,80,female,yes,NA,english,no,hs or lower,yes,jul thru sep
+25000,employed,50,other,43,male,yes,2,english,yes,hs or lower,no,jan thru mar
+NA,NA,NA,white,14,male,yes,NA,english,no,hs or lower,no,oct thru dec
+0,not in labor force,NA,white,23,male,yes,NA,other,no,hs or lower,yes,jan thru mar
+10000,employed,30,white,25,female,yes,30,english,yes,hs or lower,no,jul thru sep
+NA,NA,NA,asian,0,male,yes,NA,NA,no,NA,no,apr thru jun
+NA,NA,NA,white,12,female,yes,NA,english,no,hs or lower,no,jan thru mar
+0,not in labor force,NA,white,54,female,yes,NA,english,no,hs or lower,yes,apr thru jun
+NA,NA,NA,white,14,female,yes,NA,english,no,hs or lower,no,oct thru dec
+0,not in labor force,NA,white,70,male,yes,NA,other,no,hs or lower,no,oct thru dec
+800,not in labor force,40,other,46,male,yes,NA,english,no,hs or lower,yes,jul thru sep
+0,not in labor force,NA,black,64,male,yes,NA,english,yes,hs or lower,yes,oct thru dec
+5000,unemployed,30,white,39,female,yes,NA,english,yes,college,no,apr thru jun
+0,not in labor force,NA,white,88,female,yes,NA,english,no,college,yes,jul thru sep
+0,not in labor force,NA,white,67,male,yes,NA,english,yes,hs or lower,yes,jul thru sep
+0,employed,30,white,59,female,yes,30,english,no,hs or lower,no,apr thru jun
+39000,employed,60,white,49,male,yes,2,english,yes,hs or lower,no,jan thru mar
+45200,employed,40,white,42,male,yes,23,english,yes,hs or lower,no,jul thru sep
+40000,employed,40,white,51,female,yes,30,english,yes,hs or lower,no,jan thru mar
+0,not in labor force,NA,other,64,male,yes,NA,english,yes,hs or lower,no,jan thru mar
+0,not in labor force,NA,white,53,female,yes,NA,english,yes,college,no,oct thru dec
+62000,employed,40,white,45,male,yes,20,english,yes,college,no,jul thru sep
+1400,employed,9,white,42,female,yes,60,english,yes,grad,no,jan thru mar
+110000,employed,40,white,54,male,yes,20,english,yes,college,no,oct thru dec
+2700,employed,40,white,54,female,yes,7,english,yes,hs or lower,yes,jan thru mar
+4000,employed,37,white,29,female,yes,15,english,yes,college,no,jul thru sep
+0,not in labor force,NA,black,68,male,no,NA,other,yes,hs or lower,no,jan thru mar
+15000,employed,40,white,21,male,no,5,other,no,hs or lower,no,jul thru sep
+0,employed,30,white,25,male,no,15,other,yes,hs or lower,no,jul thru sep
+NA,NA,NA,white,11,female,yes,NA,english,no,hs or lower,no,oct thru dec
+NA,NA,NA,white,9,male,yes,NA,english,no,hs or lower,no,jan thru mar
+40000,employed,37,white,53,female,yes,157,english,yes,college,no,jul thru sep
+35000,employed,32,white,55,female,yes,30,english,yes,college,no,apr thru jun
+NA,NA,NA,white,13,male,yes,NA,english,no,hs or lower,no,oct thru dec
+0,not in labor force,NA,white,58,male,yes,NA,english,no,college,no,jan thru mar
+0,not in labor force,NA,white,76,female,yes,NA,other,yes,hs or lower,yes,jan thru mar
+0,not in labor force,NA,white,68,female,yes,NA,english,yes,hs or lower,no,oct thru dec
+18700,employed,40,white,75,male,yes,60,other,yes,hs or lower,yes,apr thru jun
+0,unemployed,NA,white,49,female,yes,NA,english,no,college,no,apr thru jun
+19000,employed,40,white,25,female,no,35,other,no,hs or lower,no,jul thru sep
+NA,NA,NA,white,13,male,yes,NA,english,no,hs or lower,no,apr thru jun
+0,not in labor force,NA,black,16,male,yes,NA,english,no,hs or lower,no,jul thru sep
+3500,employed,20,other,23,male,yes,3,english,no,college,no,apr thru jun
+0,not in labor force,NA,white,28,female,yes,NA,other,yes,hs or lower,no,jul thru sep
+NA,NA,NA,white,12,male,yes,NA,english,no,hs or lower,no,jan thru mar
+0,not in labor force,NA,white,76,female,yes,NA,english,yes,hs or lower,no,apr thru jun
+55000,employed,40,white,39,male,yes,30,english,yes,hs or lower,no,jan thru mar
+0,not in labor force,NA,white,51,female,yes,NA,other,no,hs or lower,yes,oct thru dec
+4600,employed,50,white,49,female,yes,2,english,no,hs or lower,yes,apr thru jun
+15000,employed,28,white,22,female,yes,15,english,no,college,yes,jul thru sep
+NA,NA,NA,white,2,female,yes,NA,NA,no,NA,no,jul thru sep
+0,not in labor force,NA,black,53,female,yes,NA,english,no,hs or lower,yes,apr thru jun
+72000,employed,40,white,60,female,yes,20,english,no,grad,no,jul thru sep
+7000,employed,30,white,18,male,yes,6,other,no,hs or lower,no,oct thru dec
+NA,NA,NA,white,10,male,yes,NA,english,no,hs or lower,no,jan thru mar
+0,not in labor force,NA,white,89,female,yes,NA,english,no,college,yes,oct thru dec
+NA,NA,NA,other,10,female,yes,NA,other,no,hs or lower,no,jan thru mar
+0,not in labor force,NA,white,81,male,yes,NA,english,no,hs or lower,yes,oct thru dec
+NA,NA,NA,black,5,female,yes,NA,english,no,hs or lower,no,oct thru dec
+0,not in labor force,NA,white,73,female,yes,NA,english,yes,hs or lower,yes,oct thru dec
+7000,not in labor force,40,white,65,male,yes,NA,english,yes,hs or lower,no,jan thru mar
+0,not in labor force,NA,white,70,female,yes,NA,english,yes,hs or lower,no,apr thru jun
+14000,employed,20,white,64,male,yes,12,english,yes,hs or lower,no,jan thru mar
+0,not in labor force,NA,white,77,male,yes,NA,english,yes,grad,no,oct thru dec
+39000,employed,40,white,49,female,no,10,english,no,college,no,jul thru sep
+NA,NA,NA,white,13,female,yes,NA,english,no,hs or lower,no,oct thru dec
+35000,employed,56,white,28,male,yes,15,english,yes,hs or lower,no,apr thru jun
+25000,employed,40,white,23,male,yes,15,english,no,hs or lower,no,jan thru mar
+25700,employed,40,black,47,female,yes,30,english,no,hs or lower,yes,jul thru sep
+36800,unemployed,40,white,43,male,no,NA,other,no,hs or lower,yes,apr thru jun
+NA,NA,NA,white,14,female,yes,NA,english,no,hs or lower,no,jan thru mar
+0,not in labor force,NA,white,55,female,yes,NA,english,yes,college,no,apr thru jun
+0,not in labor force,NA,white,71,female,yes,NA,english,yes,college,no,oct thru dec
+0,not in labor force,NA,white,54,female,yes,NA,english,no,hs or lower,yes,apr thru jun
+0,not in labor force,NA,white,67,female,yes,NA,english,yes,college,no,apr thru jun
+NA,NA,NA,white,3,female,yes,NA,NA,no,hs or lower,no,jan thru mar
+0,not in labor force,NA,black,41,male,yes,NA,english,no,hs or lower,no,apr thru jun
+300,employed,1,other,20,male,yes,30,english,no,hs or lower,no,jan thru mar
+0,NA,NA,white,15,male,yes,NA,english,no,hs or lower,no,apr thru jun
+0,unemployed,NA,white,21,male,yes,NA,other,no,hs or lower,yes,jan thru mar
+0,not in labor force,NA,white,67,female,yes,NA,english,yes,hs or lower,no,apr thru jun
+0,unemployed,NA,other,59,male,no,NA,other,yes,hs or lower,yes,oct thru dec
+0,unemployed,NA,black,20,male,yes,NA,english,no,hs or lower,no,jul thru sep
+4800,employed,38,white,67,female,yes,5,english,yes,college,no,apr thru jun
+0,not in labor force,NA,asian,40,female,no,NA,other,yes,college,no,oct thru dec
+60000,employed,35,white,82,female,yes,40,english,yes,hs or lower,yes,oct thru dec
+5400,unemployed,24,white,52,female,yes,NA,other,no,college,no,apr thru jun
+4300,employed,10,white,59,female,yes,5,english,yes,hs or lower,no,jan thru mar
+0,not in labor force,NA,white,79,female,yes,NA,english,yes,hs or lower,no,oct thru dec
+NA,NA,NA,white,4,female,yes,NA,NA,no,hs or lower,no,apr thru jun
+1300,employed,6,black,78,female,yes,2,english,no,hs or lower,yes,jul thru sep
+0,not in labor force,NA,white,16,male,yes,NA,english,no,hs or lower,no,apr thru jun
+0,not in labor force,NA,black,32,male,yes,NA,english,no,hs or lower,no,oct thru dec
+NA,NA,NA,white,11,female,yes,NA,english,no,hs or lower,no,jul thru sep
+85000,employed,40,white,59,male,yes,15,english,yes,hs or lower,no,jan thru mar
+0,not in labor force,NA,white,71,female,yes,NA,english,yes,hs or lower,no,jul thru sep
+0,not in labor force,NA,white,89,male,yes,NA,english,yes,hs or lower,yes,jan thru mar
+0,not in labor force,NA,black,79,female,yes,NA,english,yes,hs or lower,no,oct thru dec
+6000,employed,21,other,32,female,no,30,other,no,hs or lower,no,jul thru sep
+2100,not in labor force,32,white,20,female,yes,NA,english,no,hs or lower,no,jan thru mar
+37000,employed,45,other,33,male,no,20,other,yes,hs or lower,no,jan thru mar
+NA,NA,NA,black,5,male,yes,NA,english,no,hs or lower,no,apr thru jun
+NA,NA,NA,white,11,female,yes,NA,english,no,hs or lower,no,jul thru sep
+44000,employed,55,white,38,male,yes,20,english,yes,college,no,apr thru jun
+NA,NA,NA,white,11,female,yes,NA,english,no,hs or lower,no,apr thru jun
+0,not in labor force,NA,white,61,male,yes,NA,english,no,hs or lower,yes,jul thru sep
+0,employed,40,white,53,male,yes,10,english,yes,hs or lower,no,jan thru mar
+0,unemployed,NA,white,24,male,yes,NA,english,no,hs or lower,no,oct thru dec
+0,not in labor force,NA,white,29,female,yes,NA,english,no,hs or lower,no,oct thru dec
+0,not in labor force,NA,white,71,male,yes,NA,english,yes,grad,no,oct thru dec
+0,not in labor force,NA,white,71,female,yes,NA,english,no,grad,no,jan thru mar
+0,not in labor force,NA,black,54,male,yes,NA,english,no,hs or lower,no,jul thru sep
+13000,employed,20,white,73,female,yes,5,english,no,hs or lower,no,apr thru jun
+100000,employed,50,white,52,male,yes,60,english,yes,college,no,jul thru sep
+250000,employed,36,white,37,male,yes,5,english,yes,grad,no,apr thru jun
+24600,employed,37,white,60,female,yes,10,english,no,hs or lower,no,oct thru dec
+NA,NA,NA,white,10,male,yes,NA,english,no,hs or lower,no,oct thru dec
+NA,NA,NA,white,10,female,yes,NA,english,no,hs or lower,no,oct thru dec
+0,not in labor force,NA,white,68,male,yes,NA,english,yes,hs or lower,no,oct thru dec
+50000,employed,50,other,54,male,yes,17,other,yes,hs or lower,no,apr thru jun
+36600,employed,40,white,39,female,yes,20,other,no,hs or lower,no,jul thru sep
+0,not in labor force,NA,black,45,male,yes,NA,english,no,hs or lower,yes,oct thru dec
+24000,employed,40,white,46,female,yes,15,english,no,hs or lower,no,jan thru mar
+35000,employed,60,white,64,male,yes,75,english,yes,hs or lower,no,jan thru mar
+16600,employed,24,white,73,female,yes,20,english,yes,hs or lower,yes,jan thru mar
+30000,employed,36,white,58,female,yes,10,english,yes,grad,no,jan thru mar
+0,not in labor force,NA,other,48,female,no,NA,other,yes,hs or lower,no,jul thru sep
+8000,employed,20,white,41,female,yes,30,other,yes,grad,no,jan thru mar
+NA,NA,NA,white,2,female,yes,NA,NA,no,NA,no,oct thru dec
+0,not in labor force,NA,white,92,female,yes,NA,english,no,hs or lower,yes,oct thru dec
+NA,NA,NA,white,4,male,yes,NA,NA,no,hs or lower,no,apr thru jun
+25000,employed,40,white,29,female,yes,15,english,no,hs or lower,no,apr thru jun
+0,not in labor force,NA,other,18,male,yes,NA,english,no,hs or lower,no,oct thru dec
+10000,employed,40,white,35,female,yes,5,english,no,hs or lower,no,jan thru mar
+0,not in labor force,NA,white,88,female,yes,NA,english,no,hs or lower,yes,jan thru mar
+0,not in labor force,NA,white,79,male,yes,NA,english,yes,college,no,jan thru mar
+NA,NA,NA,white,11,male,yes,NA,english,no,hs or lower,no,oct thru dec
+NA,NA,NA,asian,13,male,yes,NA,english,no,hs or lower,no,oct thru dec
+0,not in labor force,NA,white,81,male,yes,NA,english,yes,hs or lower,yes,oct thru dec
+NA,NA,NA,white,11,male,yes,NA,english,no,hs or lower,no,jan thru mar
+80000,employed,40,white,38,male,yes,20,other,no,grad,no,apr thru jun
+0,not in labor force,NA,white,74,female,yes,NA,english,yes,hs or lower,yes,oct thru dec
+NA,NA,NA,other,3,male,yes,NA,NA,no,hs or lower,no,oct thru dec
+0,not in labor force,NA,black,17,female,yes,NA,english,no,hs or lower,no,oct thru dec
+NA,NA,NA,white,14,male,yes,NA,english,no,hs or lower,no,apr thru jun
+40000,employed,40,black,28,male,yes,40,english,yes,hs or lower,no,apr thru jun
+NA,NA,NA,white,7,female,yes,NA,other,no,hs or lower,no,apr thru jun
+0,not in labor force,NA,asian,76,male,yes,NA,english,yes,hs or lower,no,apr thru jun
+0,not in labor force,NA,white,79,female,yes,NA,other,yes,hs or lower,yes,oct thru dec
+0,not in labor force,NA,white,44,male,yes,NA,english,no,hs or lower,no,oct thru dec
+130000,employed,50,white,34,male,yes,40,english,no,hs or lower,no,oct thru dec
+0,not in labor force,NA,white,61,female,yes,NA,english,yes,grad,yes,jul thru sep
+33300,employed,50,white,25,male,yes,20,english,no,college,no,jul thru sep
+0,not in labor force,NA,white,88,female,yes,NA,english,no,hs or lower,yes,oct thru dec
+65000,employed,40,white,38,female,no,90,other,no,hs or lower,no,oct thru dec
+3000,employed,35,white,21,male,yes,3,english,no,hs or lower,no,jan thru mar
+0,not in labor force,NA,white,58,male,yes,NA,english,yes,hs or lower,yes,jul thru sep
+0,not in labor force,NA,white,53,female,yes,NA,english,yes,hs or lower,yes,jan thru mar
+0,not in labor force,NA,black,17,female,yes,NA,english,no,hs or lower,no,jan thru mar
+70000,employed,50,white,54,male,yes,15,english,yes,college,no,jan thru mar
+0,NA,NA,white,15,male,yes,NA,english,no,hs or lower,no,jan thru mar
+36000,employed,50,white,37,male,yes,15,english,yes,hs or lower,no,oct thru dec
+NA,NA,NA,black,13,male,yes,NA,english,no,hs or lower,yes,jan thru mar
+NA,NA,NA,white,10,female,yes,NA,english,no,hs or lower,no,jul thru sep
+0,not in labor force,NA,white,37,female,yes,NA,english,yes,hs or lower,no,jan thru mar
+399000,employed,40,white,62,male,yes,60,english,yes,grad,no,jan thru mar
+25000,employed,40,white,54,male,yes,10,english,yes,hs or lower,no,oct thru dec
+0,unemployed,NA,white,83,male,yes,NA,english,no,hs or lower,yes,oct thru dec
+0,not in labor force,NA,white,58,male,no,NA,other,no,hs or lower,no,jul thru sep
+46000,employed,40,other,25,male,yes,70,english,no,hs or lower,no,jul thru sep
+5000,not in labor force,42,white,60,male,yes,NA,english,yes,hs or lower,no,oct thru dec
+0,not in labor force,NA,white,93,female,yes,NA,other,no,college,yes,jan thru mar
+12000,employed,40,black,47,male,yes,20,english,no,hs or lower,no,oct thru dec
+0,not in labor force,NA,white,57,female,yes,NA,english,no,hs or lower,no,jan thru mar
+0,not in labor force,NA,other,46,female,yes,NA,english,yes,hs or lower,yes,apr thru jun
+30000,employed,25,white,21,female,yes,NA,english,no,hs or lower,no,jan thru mar
+86000,employed,44,white,55,male,yes,40,english,yes,hs or lower,no,oct thru dec
+19200,employed,40,white,25,female,yes,10,english,no,hs or lower,no,jan thru mar
+0,not in labor force,NA,white,50,female,yes,NA,english,no,hs or lower,yes,oct thru dec
+350,employed,30,white,50,female,yes,20,english,no,college,no,oct thru dec
+75000,employed,40,white,59,male,yes,20,english,yes,college,no,jul thru sep
+0,not in labor force,NA,white,53,male,yes,NA,english,no,hs or lower,no,oct thru dec
+2800,employed,15,black,19,female,yes,5,english,no,hs or lower,no,oct thru dec
+8000,employed,25,white,24,male,yes,45,english,no,hs or lower,no,apr thru jun
+NA,NA,NA,white,5,female,yes,NA,english,no,hs or lower,no,oct thru dec
+20000,employed,40,white,30,female,yes,20,english,yes,hs or lower,no,jul thru sep
+NA,NA,NA,white,7,male,yes,NA,english,no,hs or lower,no,apr thru jun
+0,not in labor force,NA,white,72,female,yes,NA,other,no,hs or lower,no,jan thru mar
+20000,employed,35,black,41,female,yes,10,english,yes,hs or lower,no,jul thru sep
+0,not in labor force,NA,black,43,female,yes,NA,other,no,hs or lower,no,jul thru sep
+50000,employed,40,black,29,female,yes,10,english,no,college,no,oct thru dec
+0,not in labor force,NA,other,53,male,yes,NA,other,yes,hs or lower,no,jan thru mar
+0,not in labor force,NA,white,20,male,yes,NA,english,no,hs or lower,no,jul thru sep
+3600,not in labor force,16,white,63,male,yes,NA,english,yes,hs or lower,yes,apr thru jun
+NA,NA,NA,other,7,female,yes,NA,english,no,hs or lower,no,oct thru dec
+0,not in labor force,NA,white,32,female,yes,NA,english,no,hs or lower,no,jan thru mar
+40000,unemployed,45,white,48,male,yes,NA,english,yes,college,no,jul thru sep
+19500,employed,40,black,53,male,yes,20,english,yes,hs or lower,no,apr thru jun
+130000,employed,45,asian,44,male,no,70,other,yes,grad,no,jan thru mar
+92000,employed,40,white,36,male,yes,30,english,yes,hs or lower,no,jan thru mar
+0,NA,NA,white,15,female,yes,NA,other,no,hs or lower,no,oct thru dec
+0,not in labor force,NA,black,51,female,yes,NA,english,no,hs or lower,yes,jan thru mar
+8000,employed,40,black,59,male,yes,10,english,yes,hs or lower,no,jul thru sep
+0,not in labor force,NA,white,76,male,yes,NA,english,no,hs or lower,no,jan thru mar
+50000,employed,40,white,27,male,yes,45,english,no,college,no,jan thru mar
+0,not in labor force,NA,white,19,female,yes,NA,english,no,hs or lower,yes,oct thru dec
+0,not in labor force,NA,white,74,male,yes,NA,other,no,college,no,oct thru dec
+NA,NA,NA,white,7,female,yes,NA,english,no,hs or lower,no,jul thru sep
+0,not in labor force,NA,white,64,female,yes,NA,english,no,hs or lower,yes,jul thru sep
+0,not in labor force,NA,white,67,female,yes,NA,english,yes,hs or lower,no,jan thru mar
+104000,employed,45,white,60,male,yes,27,english,no,college,no,apr thru jun
+300,not in labor force,2,white,84,male,yes,NA,english,no,grad,no,apr thru jun
+26000,employed,40,white,53,female,yes,20,english,no,college,no,oct thru dec
+0,unemployed,NA,black,22,female,yes,NA,english,no,college,yes,jul thru sep
+0,not in labor force,NA,white,19,female,yes,NA,english,no,hs or lower,no,jan thru mar
+70000,employed,40,white,59,female,yes,15,english,yes,grad,no,jul thru sep
+14700,employed,10,other,67,female,yes,6,other,no,grad,no,jan thru mar
+0,unemployed,NA,white,19,male,yes,NA,english,no,hs or lower,no,apr thru jun
+5000,not in labor force,35,white,26,male,yes,NA,english,no,hs or lower,yes,apr thru jun
+22900,not in labor force,40,white,54,male,yes,NA,english,no,hs or lower,no,jan thru mar
+0,not in labor force,NA,white,79,male,yes,NA,english,yes,hs or lower,no,jan thru mar
+68000,employed,40,white,27,male,yes,15,english,no,hs or lower,no,jul thru sep
+288000,employed,60,white,34,male,yes,35,english,yes,college,no,jul thru sep
+6600,unemployed,50,white,53,male,yes,NA,english,yes,hs or lower,yes,apr thru jun
+8800,employed,10,black,57,female,yes,NA,english,yes,college,no,jul thru sep
+NA,NA,NA,white,9,male,yes,NA,english,no,hs or lower,no,jul thru sep
+90000,employed,40,white,58,male,yes,75,english,yes,college,no,jan thru mar
+43600,employed,40,white,61,female,yes,35,english,no,college,no,oct thru dec
+0,not in labor force,NA,white,48,female,yes,NA,english,yes,hs or lower,no,jul thru sep
+26000,employed,45,white,29,male,yes,20,english,no,hs or lower,no,jan thru mar
+24000,employed,38,white,51,female,yes,15,english,yes,hs or lower,no,jan thru mar
+0,not in labor force,NA,white,60,female,yes,NA,english,yes,hs or lower,no,apr thru jun
+0,not in labor force,NA,white,50,male,yes,NA,english,yes,hs or lower,no,jan thru mar
+0,unemployed,NA,black,18,male,yes,NA,english,no,hs or lower,no,jan thru mar
+0,not in labor force,NA,white,89,female,yes,NA,english,no,hs or lower,yes,oct thru dec
+0,employed,65,white,59,male,yes,5,english,yes,hs or lower,yes,jul thru sep
+0,employed,4,other,50,male,yes,35,english,no,hs or lower,yes,jan thru mar
+0,NA,NA,white,15,male,yes,NA,english,no,hs or lower,no,apr thru jun
+94000,employed,60,white,49,male,yes,15,english,yes,college,no,jul thru sep
+1000,not in labor force,15,white,18,male,yes,NA,english,no,hs or lower,no,jan thru mar
+0,not in labor force,NA,white,55,male,yes,NA,other,no,hs or lower,yes,jan thru mar
+0,employed,35,white,36,male,yes,3,english,yes,grad,no,jan thru mar
+NA,NA,NA,white,8,male,yes,NA,english,no,hs or lower,no,jul thru sep
+2000,unemployed,40,other,61,male,yes,NA,other,yes,hs or lower,no,oct thru dec
+0,employed,25,white,61,male,yes,NA,other,yes,college,no,jan thru mar
+15000,employed,50,white,22,male,yes,15,english,no,hs or lower,no,oct thru dec
+NA,NA,NA,white,7,male,yes,NA,other,no,hs or lower,no,jan thru mar
+0,not in labor force,NA,white,61,male,yes,NA,english,yes,hs or lower,yes,apr thru jun
+0,not in labor force,NA,white,93,female,yes,NA,english,no,hs or lower,yes,jul thru sep
+0,not in labor force,NA,white,16,male,yes,NA,other,no,hs or lower,no,apr thru jun
+NA,NA,NA,other,7,female,yes,NA,english,no,hs or lower,no,jul thru sep
+12000,not in labor force,38,white,63,female,yes,NA,english,yes,college,no,apr thru jun
+NA,NA,NA,white,3,male,yes,NA,NA,no,hs or lower,no,jul thru sep
+31000,employed,40,white,26,male,yes,45,english,no,hs or lower,no,oct thru dec
+0,not in labor force,NA,black,19,male,yes,NA,english,no,hs or lower,no,jan thru mar
+25000,employed,25,black,28,male,yes,60,other,no,college,no,oct thru dec
+NA,NA,NA,white,8,female,no,NA,other,no,hs or lower,no,oct thru dec
+NA,NA,NA,black,5,male,no,NA,english,no,hs or lower,no,jan thru mar
+NA,NA,NA,white,5,male,yes,NA,english,no,hs or lower,no,oct thru dec
+0,not in labor force,NA,white,88,male,yes,NA,english,no,hs or lower,no,apr thru jun
+58000,employed,40,white,53,male,yes,10,english,yes,hs or lower,no,oct thru dec
+0,not in labor force,NA,white,50,female,yes,NA,english,no,hs or lower,yes,jul thru sep
+32200,employed,40,other,72,male,yes,30,english,yes,hs or lower,no,apr thru jun
+NA,NA,NA,black,4,male,yes,NA,NA,no,hs or lower,no,jul thru sep
+0,not in labor force,NA,white,59,male,yes,NA,other,no,hs or lower,yes,apr thru jun
+53000,employed,45,white,53,male,yes,5,english,yes,hs or lower,no,oct thru dec
+0,not in labor force,NA,white,17,female,yes,NA,english,no,hs or lower,no,jul thru sep
+0,not in labor force,NA,white,82,female,yes,NA,english,yes,hs or lower,no,oct thru dec
+0,not in labor force,NA,white,63,female,yes,NA,english,no,hs or lower,no,jan thru mar
+0,unemployed,NA,white,22,male,yes,NA,english,no,hs or lower,no,jul thru sep
+32000,employed,40,black,30,female,yes,20,english,no,college,no,jul thru sep
+15000,employed,23,white,25,female,yes,40,english,no,college,no,oct thru dec
+18000,employed,40,white,55,male,yes,30,english,no,hs or lower,no,jul thru sep
+NA,NA,NA,white,13,male,yes,NA,other,no,hs or lower,no,jul thru sep
+17100,employed,40,white,44,male,yes,142,english,yes,hs or lower,no,apr thru jun
+0,not in labor force,NA,white,68,male,yes,NA,english,yes,college,no,jan thru mar
+3000,employed,25,white,29,male,yes,60,other,no,hs or lower,yes,oct thru dec
+135000,employed,60,white,60,male,yes,5,english,yes,college,no,jan thru mar
+0,not in labor force,NA,white,69,female,yes,NA,english,yes,hs or lower,yes,apr thru jun
+800,employed,11,white,39,female,yes,45,english,yes,hs or lower,no,apr thru jun
+NA,NA,NA,other,6,male,yes,NA,other,no,hs or lower,no,jul thru sep
+0,not in labor force,NA,white,68,male,yes,NA,english,yes,college,yes,jan thru mar
+NA,NA,NA,white,14,female,yes,NA,english,no,hs or lower,no,apr thru jun
+0,not in labor force,NA,white,70,male,yes,NA,english,yes,hs or lower,no,apr thru jun
+0,not in labor force,NA,white,79,female,yes,NA,english,no,hs or lower,no,apr thru jun
+18000,employed,40,white,37,female,yes,35,english,yes,grad,no,jan thru mar
+0,not in labor force,NA,white,82,female,yes,NA,english,yes,hs or lower,no,jan thru mar
+9000,employed,30,white,70,female,yes,NA,english,no,grad,no,oct thru dec
+0,not in labor force,NA,white,85,female,yes,NA,other,no,hs or lower,yes,oct thru dec
+81000,employed,50,white,64,male,yes,3,english,yes,grad,no,oct thru dec
+0,not in labor force,NA,black,32,male,yes,NA,english,no,hs or lower,yes,jul thru sep
+20000,employed,30,white,21,female,yes,35,other,no,hs or lower,no,jul thru sep
+0,not in labor force,NA,white,72,female,yes,NA,english,yes,college,no,oct thru dec
+0,not in labor force,NA,white,64,female,yes,NA,english,yes,hs or lower,no,apr thru jun
+0,not in labor force,NA,white,85,male,yes,NA,english,yes,hs or lower,yes,jan thru mar
+38000,employed,48,black,44,female,yes,30,english,no,college,no,jan thru mar
+0,not in labor force,NA,white,21,male,yes,NA,english,no,hs or lower,no,oct thru dec
+NA,NA,NA,white,10,male,yes,NA,english,no,hs or lower,no,jul thru sep
+51000,employed,40,asian,61,female,no,15,other,yes,college,no,oct thru dec
+0,not in labor force,NA,asian,20,female,no,NA,other,yes,hs or lower,no,jan thru mar
+0,not in labor force,NA,white,90,female,yes,NA,english,no,hs or lower,yes,jan thru mar
+0,unemployed,NA,white,46,female,no,NA,other,yes,hs or lower,no,oct thru dec
+NA,NA,NA,white,11,female,yes,NA,english,no,hs or lower,no,oct thru dec
+0,not in labor force,NA,white,94,female,yes,NA,english,no,hs or lower,yes,jan thru mar
+0,not in labor force,NA,white,66,male,yes,NA,english,no,hs or lower,yes,jan thru mar
+2000,not in labor force,35,white,20,female,yes,NA,english,no,hs or lower,no,oct thru dec
+0,NA,NA,white,15,female,yes,NA,english,no,hs or lower,no,jan thru mar
+0,employed,36,white,40,female,yes,10,english,yes,hs or lower,no,jan thru mar
+0,not in labor force,35,white,61,male,yes,NA,english,yes,hs or lower,no,jul thru sep
+0,not in labor force,NA,white,53,female,yes,NA,other,yes,hs or lower,no,oct thru dec
+670,employed,15,white,34,female,yes,30,english,no,college,no,oct thru dec
+0,not in labor force,NA,white,70,male,yes,NA,english,yes,hs or lower,no,oct thru dec
+1200,not in labor force,40,white,40,female,yes,NA,other,yes,grad,no,jul thru sep
+0,not in labor force,NA,white,45,male,yes,NA,english,no,hs or lower,yes,apr thru jun
+40000,employed,45,white,23,male,yes,40,english,no,college,no,apr thru jun
+9000,employed,48,white,50,male,yes,10,english,yes,hs or lower,no,jul thru sep
+6000,unemployed,20,black,22,male,yes,NA,english,no,hs or lower,no,oct thru dec
+65000,employed,40,other,43,male,yes,15,english,yes,college,no,jul thru sep
+2100,unemployed,6,white,72,male,yes,NA,english,no,hs or lower,no,oct thru dec
+128000,employed,50,white,46,male,yes,60,english,yes,hs or lower,no,jul thru sep
+NA,NA,NA,other,5,male,yes,NA,english,no,hs or lower,yes,jul thru sep
+NA,NA,NA,white,7,male,yes,NA,english,no,hs or lower,yes,oct thru dec
+NA,NA,NA,other,8,male,no,NA,other,no,hs or lower,no,jul thru sep
+NA,NA,NA,white,12,male,yes,NA,english,no,hs or lower,no,apr thru jun
+0,not in labor force,NA,white,64,male,yes,NA,english,no,hs or lower,no,jul thru sep
+0,not in labor force,NA,white,71,male,yes,NA,english,yes,grad,no,apr thru jun
+0,not in labor force,NA,white,69,female,yes,NA,english,yes,grad,no,apr thru jun
+NA,NA,NA,white,13,male,yes,NA,english,no,hs or lower,no,jan thru mar
+700,unemployed,9,asian,48,female,no,NA,other,yes,college,no,jan thru mar
+5200,not in labor force,25,white,24,female,yes,NA,english,yes,hs or lower,no,apr thru jun
+0,not in labor force,NA,white,50,female,yes,NA,english,yes,college,no,apr thru jun
+0,not in labor force,NA,white,59,female,yes,NA,english,yes,hs or lower,no,apr thru jun
+NA,NA,NA,white,12,female,yes,NA,english,no,hs or lower,no,jul thru sep
+500,not in labor force,25,white,28,male,yes,NA,english,no,hs or lower,yes,jan thru mar
+0,not in labor force,NA,white,79,male,yes,NA,english,yes,hs or lower,no,jan thru mar
+50000,employed,75,white,35,male,yes,3,english,yes,hs or lower,no,jul thru sep
+0,not in labor force,NA,black,79,female,yes,NA,english,yes,grad,no,jan thru mar
+0,not in labor force,NA,white,79,male,yes,NA,english,no,hs or lower,no,apr thru jun
+NA,NA,NA,white,12,male,yes,NA,other,no,hs or lower,no,oct thru dec
+32900,employed,38,white,50,male,yes,20,english,yes,grad,no,jan thru mar
+75000,employed,50,white,44,male,yes,1,english,no,hs or lower,no,oct thru dec
+22000,employed,36,white,28,female,yes,20,english,yes,hs or lower,no,apr thru jun
+6000,unemployed,40,white,28,female,yes,NA,english,yes,grad,no,apr thru jun
+0,not in labor force,NA,white,85,male,yes,NA,english,no,hs or lower,yes,apr thru jun
+NA,NA,NA,black,4,female,yes,NA,NA,no,hs or lower,no,apr thru jun
+35000,employed,60,white,51,male,yes,15,other,yes,hs or lower,no,apr thru jun
+NA,NA,NA,white,10,male,yes,NA,english,no,hs or lower,no,jul thru sep
+0,not in labor force,NA,black,51,female,yes,NA,english,no,hs or lower,yes,jan thru mar
+95000,employed,40,black,62,male,yes,60,english,yes,college,no,jul thru sep
+35500,employed,45,white,29,male,yes,10,english,no,college,no,apr thru jun
+0,not in labor force,NA,white,68,female,yes,NA,english,yes,hs or lower,no,oct thru dec
+0,employed,60,white,46,male,yes,15,english,yes,grad,no,oct thru dec
+65000,employed,40,white,46,female,yes,NA,english,no,college,no,jul thru sep
+24000,employed,36,white,27,female,yes,25,english,no,college,no,jul thru sep
+0,not in labor force,NA,white,83,female,yes,NA,english,yes,hs or lower,no,jul thru sep
+NA,NA,NA,other,2,male,yes,NA,NA,no,NA,no,apr thru jun
+0,not in labor force,NA,white,64,male,yes,NA,english,no,college,no,jul thru sep
+0,unemployed,NA,white,59,female,yes,NA,english,no,hs or lower,no,apr thru jun
+110000,employed,35,white,57,female,yes,5,english,no,hs or lower,no,jul thru sep
+0,employed,40,white,23,female,yes,NA,english,no,hs or lower,no,jul thru sep
+NA,NA,NA,white,14,female,yes,NA,english,no,hs or lower,no,oct thru dec
+17000,employed,40,white,24,male,yes,5,english,no,hs or lower,no,apr thru jun
+0,not in labor force,NA,white,66,female,yes,NA,english,yes,hs or lower,no,jan thru mar
+0,not in labor force,NA,white,82,female,yes,NA,english,no,hs or lower,yes,oct thru dec
+0,not in labor force,NA,black,91,female,yes,NA,english,no,hs or lower,yes,jul thru sep
+NA,NA,NA,white,14,female,yes,NA,other,no,hs or lower,no,oct thru dec
+35000,employed,40,white,52,male,yes,15,english,yes,hs or lower,no,jul thru sep
+NA,NA,NA,white,4,male,yes,NA,NA,no,hs or lower,no,apr thru jun
+3000,unemployed,40,black,29,female,yes,NA,english,no,college,no,jan thru mar
+38000,employed,60,white,49,female,yes,45,english,yes,hs or lower,no,oct thru dec
+50000,employed,40,white,68,male,yes,NA,english,yes,hs or lower,no,jul thru sep
+5000,employed,30,white,18,female,yes,10,english,no,hs or lower,no,jul thru sep
+1200,employed,25,white,20,male,yes,15,english,no,hs or lower,yes,oct thru dec
+NA,NA,NA,white,10,male,yes,NA,english,no,hs or lower,no,jul thru sep
+0,not in labor force,NA,white,80,female,yes,NA,english,no,college,no,jul thru sep
+0,NA,NA,asian,15,female,no,NA,other,no,hs or lower,no,oct thru dec
+5000,employed,15,white,18,male,yes,10,english,no,hs or lower,no,jan thru mar
+NA,NA,NA,black,13,male,yes,NA,english,no,hs or lower,no,apr thru jun
+22000,employed,40,white,41,female,no,7,other,no,hs or lower,no,jul thru sep
+40000,employed,40,other,46,male,yes,15,other,yes,college,no,oct thru dec
+0,not in labor force,NA,black,71,female,yes,NA,english,no,hs or lower,yes,oct thru dec
+0,not in labor force,NA,white,38,female,yes,NA,english,yes,hs or lower,no,jan thru mar
+0,not in labor force,NA,white,45,male,yes,NA,english,no,hs or lower,yes,jul thru sep
+0,not in labor force,NA,white,59,male,yes,NA,english,yes,hs or lower,yes,oct thru dec
+NA,NA,NA,white,9,female,yes,NA,english,no,hs or lower,no,jan thru mar
+60000,employed,40,white,67,male,yes,30,english,yes,college,no,jan thru mar
+NA,NA,NA,white,8,male,no,NA,other,no,hs or lower,no,jan thru mar
+0,not in labor force,NA,white,17,female,yes,NA,other,no,hs or lower,yes,jul thru sep
+0,not in labor force,NA,other,45,female,no,NA,other,no,hs or lower,yes,jul thru sep
+0,not in labor force,NA,white,28,male,yes,NA,english,no,hs or lower,no,jan thru mar
+46000,employed,40,white,48,female,yes,20,english,yes,college,no,oct thru dec
+28000,employed,40,white,58,female,yes,7,other,yes,hs or lower,no,jan thru mar
+130000,employed,60,white,57,male,yes,20,english,yes,college,no,apr thru jun
+NA,NA,NA,white,5,male,yes,NA,english,no,hs or lower,no,apr thru jun
+0,not in labor force,NA,white,69,female,yes,NA,english,no,college,no,jan thru mar
+0,not in labor force,NA,white,49,female,yes,NA,english,yes,hs or lower,no,oct thru dec
+20000,employed,40,other,61,female,no,30,other,yes,hs or lower,no,oct thru dec
+70000,employed,48,white,38,male,yes,40,english,no,college,no,apr thru jun
+65000,unemployed,40,black,47,male,yes,NA,english,yes,hs or lower,no,jul thru sep
+42000,employed,40,white,30,female,yes,25,english,yes,college,no,apr thru jun
+0,not in labor force,NA,white,60,male,yes,NA,english,no,hs or lower,no,apr thru jun
+60000,employed,40,white,30,male,yes,25,english,yes,hs or lower,no,apr thru jun
+340000,employed,20,white,67,male,yes,45,english,yes,grad,no,oct thru dec
+0,unemployed,NA,white,26,female,yes,NA,english,no,hs or lower,no,oct thru dec
+NA,NA,NA,white,8,female,yes,NA,english,no,hs or lower,no,jul thru sep
+4800,not in labor force,24,white,65,female,yes,NA,english,no,hs or lower,no,jan thru mar
+120000,employed,80,asian,33,female,yes,NA,english,yes,college,no,jan thru mar
+8300,employed,10,white,16,female,yes,NA,english,no,hs or lower,no,jan thru mar
+18000,employed,40,black,26,male,yes,20,english,no,hs or lower,no,oct thru dec
+20000,employed,40,asian,25,male,yes,40,other,no,college,no,jul thru sep
+0,not in labor force,NA,other,40,male,yes,NA,english,no,hs or lower,yes,apr thru jun
+15000,employed,36,white,24,male,yes,90,english,no,hs or lower,no,oct thru dec
+40000,employed,42,white,46,female,yes,25,english,yes,college,no,apr thru jun
+40600,employed,40,white,63,male,yes,45,english,yes,hs or lower,no,jul thru sep
+2000,unemployed,14,white,18,female,yes,NA,english,no,hs or lower,no,oct thru dec
+40000,employed,42,black,46,male,yes,12,english,yes,college,no,oct thru dec
+750,employed,1,black,49,male,yes,NA,english,no,hs or lower,no,apr thru jun
+NA,NA,NA,other,3,male,yes,NA,NA,no,hs or lower,no,apr thru jun
+NA,NA,NA,white,6,female,yes,NA,english,no,hs or lower,no,jan thru mar
+0,not in labor force,NA,white,70,female,yes,NA,english,yes,hs or lower,no,jul thru sep
+345000,employed,60,white,41,male,yes,25,english,yes,college,no,jul thru sep
+16200,employed,40,asian,23,male,no,15,other,no,hs or lower,no,jan thru mar
+NA,NA,NA,white,10,female,yes,NA,other,no,hs or lower,no,jan thru mar
+3900,employed,32,white,19,male,yes,20,english,no,hs or lower,no,jan thru mar
+NA,NA,NA,white,6,male,yes,NA,english,no,hs or lower,no,oct thru dec
+NA,NA,NA,white,6,female,yes,NA,other,no,hs or lower,no,apr thru jun
+11000,employed,35,black,19,male,yes,60,english,no,hs or lower,no,apr thru jun
+0,not in labor force,NA,white,72,female,yes,NA,english,no,college,no,oct thru dec
+0,not in labor force,NA,white,93,male,yes,NA,other,yes,hs or lower,yes,jan thru mar
+0,not in labor force,NA,white,17,female,yes,NA,english,no,hs or lower,no,jan thru mar
+150000,employed,40,white,56,male,yes,NA,english,yes,college,no,jan thru mar
+52000,employed,45,black,59,female,yes,25,english,yes,hs or lower,no,oct thru dec
+51000,employed,40,white,56,male,yes,10,english,yes,grad,no,jul thru sep
+45000,employed,32,black,61,female,yes,5,english,no,college,no,oct thru dec
+58000,employed,43,white,55,male,yes,35,english,yes,hs or lower,no,jan thru mar
+NA,NA,NA,white,13,male,yes,NA,english,no,hs or lower,no,oct thru dec
+0,employed,6,white,66,female,yes,15,english,no,college,no,jul thru sep
+10500,employed,40,white,44,female,yes,60,english,no,college,no,apr thru jun
+NA,NA,NA,white,10,male,yes,NA,english,no,hs or lower,no,oct thru dec
+0,not in labor force,NA,white,17,male,yes,NA,other,no,hs or lower,no,oct thru dec
+0,not in labor force,NA,white,67,male,yes,NA,english,yes,hs or lower,no,oct thru dec
+0,employed,50,white,56,male,yes,25,english,no,college,no,apr thru jun
+NA,NA,NA,other,10,male,yes,NA,english,no,hs or lower,no,apr thru jun
+NA,NA,NA,white,9,male,yes,NA,english,no,hs or lower,no,jan thru mar
+75000,employed,40,white,44,male,yes,30,english,yes,hs or lower,no,oct thru dec
+45000,employed,50,white,38,male,yes,5,english,yes,grad,no,jul thru sep
+NA,NA,NA,other,3,male,yes,NA,NA,no,hs or lower,no,jan thru mar
+45000,not in labor force,40,white,61,male,yes,NA,english,no,hs or lower,yes,oct thru dec
+800,employed,30,white,53,male,yes,45,english,no,hs or lower,yes,oct thru dec
+6000,employed,25,white,23,male,yes,5,english,no,hs or lower,no,jul thru sep
+158000,employed,40,white,54,female,yes,15,english,yes,college,no,jul thru sep
+58000,employed,50,other,40,male,yes,25,other,yes,hs or lower,no,oct thru dec
+20200,employed,40,white,29,female,no,60,other,yes,college,no,jan thru mar
+63000,employed,60,black,48,male,yes,15,english,yes,college,no,jul thru sep
+NA,NA,NA,other,0,male,yes,NA,NA,no,NA,yes,apr thru jun
+31000,employed,40,white,34,female,yes,75,english,no,hs or lower,no,oct thru dec
+27000,employed,40,white,49,female,yes,25,english,yes,hs or lower,no,jul thru sep
+0,not in labor force,NA,white,55,female,yes,NA,english,no,hs or lower,yes,apr thru jun
+25000,employed,40,other,20,female,yes,20,english,no,hs or lower,no,jan thru mar
+37600,employed,70,white,55,male,yes,30,english,yes,hs or lower,no,oct thru dec
+0,not in labor force,NA,white,19,male,yes,NA,english,no,hs or lower,no,oct thru dec
+28500,employed,40,other,54,male,yes,10,other,yes,hs or lower,no,jan thru mar
+0,NA,NA,white,15,female,yes,NA,english,no,hs or lower,no,apr thru jun
+NA,NA,NA,white,14,male,yes,NA,english,no,hs or lower,yes,oct thru dec
+23000,employed,60,black,59,male,yes,10,english,no,hs or lower,no,oct thru dec
+NA,NA,NA,white,2,male,yes,NA,NA,no,NA,no,oct thru dec
+8000,not in labor force,15,white,52,female,yes,NA,english,yes,hs or lower,no,oct thru dec
+2500,employed,7,white,94,male,yes,5,english,no,college,yes,jan thru mar
+109000,employed,50,white,51,male,yes,NA,english,yes,college,no,oct thru dec
+NA,NA,NA,white,6,male,yes,NA,english,no,hs or lower,no,oct thru dec
+25000,employed,25,black,53,female,yes,30,english,yes,hs or lower,no,jan thru mar
+0,not in labor force,NA,white,18,male,yes,NA,other,no,hs or lower,no,apr thru jun
+NA,NA,NA,other,8,female,yes,NA,english,no,hs or lower,no,oct thru dec
+NA,NA,NA,white,1,male,yes,NA,NA,no,NA,no,oct thru dec
+80000,employed,40,white,38,male,yes,NA,english,yes,college,no,apr thru jun
+0,not in labor force,NA,asian,84,female,yes,NA,other,yes,grad,no,apr thru jun
+41000,employed,40,white,42,male,yes,90,english,yes,college,no,apr thru jun
+130,not in labor force,50,white,71,male,yes,NA,english,yes,grad,yes,jul thru sep
+79000,employed,50,white,35,female,yes,30,english,yes,grad,no,jul thru sep
+0,not in labor force,NA,white,16,male,yes,NA,other,no,hs or lower,no,jan thru mar
+58000,employed,35,white,59,female,yes,40,english,yes,college,no,oct thru dec
+40000,employed,40,white,43,male,yes,15,english,yes,hs or lower,no,jul thru sep
+5200,employed,25,white,35,female,yes,5,english,no,hs or lower,yes,apr thru jun
+NA,NA,NA,white,10,male,yes,NA,english,no,hs or lower,no,apr thru jun
+12000,employed,40,white,23,female,yes,40,other,no,hs or lower,no,jul thru sep
+34000,employed,36,black,46,female,no,45,other,no,hs or lower,no,apr thru jun
+19200,employed,40,white,36,male,yes,25,english,yes,hs or lower,no,jul thru sep
+0,not in labor force,NA,white,18,male,yes,NA,english,no,hs or lower,no,oct thru dec
+NA,NA,NA,white,10,female,yes,NA,english,no,hs or lower,no,jan thru mar
+NA,NA,NA,white,3,female,yes,NA,NA,no,hs or lower,no,apr thru jun
+NA,NA,NA,white,8,female,yes,NA,other,no,hs or lower,no,jul thru sep
+18000,employed,20,white,71,female,yes,10,english,no,hs or lower,no,apr thru jun
+32000,unemployed,40,white,40,female,yes,NA,english,no,college,yes,jul thru sep
+NA,NA,NA,white,8,male,yes,NA,english,no,hs or lower,no,oct thru dec
+0,not in labor force,NA,white,18,female,yes,NA,english,no,hs or lower,no,jan thru mar
+26000,employed,40,white,30,male,yes,20,english,yes,hs or lower,no,apr thru jun
+3500,employed,20,other,21,female,yes,7,other,yes,hs or lower,no,apr thru jun
+0,not in labor force,NA,other,31,male,no,NA,other,no,hs or lower,no,jul thru sep
+0,not in labor force,NA,white,78,female,yes,NA,english,yes,hs or lower,yes,jul thru sep
+0,not in labor force,NA,other,77,female,yes,NA,other,yes,hs or lower,no,jul thru sep
+36000,employed,43,white,48,male,yes,8,english,yes,hs or lower,no,apr thru jun
+9600,employed,40,white,32,female,yes,30,english,no,college,no,oct thru dec
+0,employed,70,white,45,male,yes,NA,english,no,hs or lower,no,oct thru dec
+98000,employed,40,other,42,male,no,NA,english,no,college,no,oct thru dec
+NA,NA,NA,white,2,male,yes,NA,NA,no,NA,no,jan thru mar
+17000,employed,32,white,54,female,yes,10,english,yes,hs or lower,no,jul thru sep
+0,not in labor force,NA,black,18,male,yes,NA,english,no,hs or lower,no,apr thru jun
+NA,NA,NA,black,6,male,yes,NA,english,no,hs or lower,no,jan thru mar
+19000,employed,40,white,48,female,yes,15,english,no,hs or lower,no,oct thru dec
+4500,not in labor force,23,white,23,female,yes,NA,other,yes,hs or lower,no,oct thru dec
+NA,NA,NA,white,13,male,yes,NA,english,no,hs or lower,no,jan thru mar
+12000,employed,30,asian,21,male,no,15,english,no,hs or lower,no,oct thru dec
+45000,employed,30,white,48,male,yes,15,english,yes,hs or lower,no,apr thru jun
+NA,NA,NA,black,7,female,yes,NA,english,no,hs or lower,no,oct thru dec
+0,not in labor force,NA,white,61,female,yes,NA,english,no,college,yes,jul thru sep
+52000,employed,50,white,39,male,yes,30,english,yes,hs or lower,no,jul thru sep
+1200,employed,20,black,22,female,yes,15,english,no,college,no,jul thru sep
+0,not in labor force,NA,white,94,female,yes,NA,english,no,hs or lower,yes,oct thru dec
+NA,NA,NA,white,5,female,yes,NA,other,no,hs or lower,no,oct thru dec
+NA,NA,NA,white,1,male,yes,NA,NA,no,NA,no,oct thru dec
+2000,unemployed,50,white,32,male,yes,NA,english,yes,hs or lower,no,oct thru dec
+0,not in labor force,NA,white,18,male,yes,NA,other,no,hs or lower,no,oct thru dec
+2000,not in labor force,24,white,17,male,yes,NA,english,no,hs or lower,no,oct thru dec
+0,not in labor force,30,white,46,female,yes,NA,english,yes,hs or lower,no,apr thru jun
+0,not in labor force,NA,white,48,female,yes,NA,english,yes,college,no,jan thru mar
+50,employed,5,asian,30,female,yes,20,english,yes,college,no,jul thru sep
+0,not in labor force,NA,white,63,female,yes,NA,english,yes,college,no,jul thru sep
+0,not in labor force,NA,white,67,male,yes,NA,other,no,hs or lower,yes,oct thru dec
+9000,employed,40,other,25,male,no,45,other,no,college,no,apr thru jun
+NA,NA,NA,white,1,female,yes,NA,NA,no,NA,no,jan thru mar
+40000,employed,40,white,51,male,yes,20,english,yes,hs or lower,no,jan thru mar
+5100,employed,32,white,19,male,yes,30,other,no,hs or lower,no,jan thru mar
+0,not in labor force,NA,white,72,male,yes,NA,english,no,college,no,jan thru mar
+13000,unemployed,32,other,21,female,yes,NA,english,no,hs or lower,no,apr thru jun
+0,not in labor force,NA,white,52,male,yes,NA,english,no,hs or lower,yes,jan thru mar
+78000,employed,50,white,47,male,yes,60,english,yes,college,no,apr thru jun
+0,unemployed,NA,black,50,male,yes,NA,english,no,college,no,oct thru dec
+0,not in labor force,NA,white,84,female,yes,NA,english,no,hs or lower,no,oct thru dec
+30000,employed,40,white,43,male,yes,30,other,yes,hs or lower,no,jan thru mar
+0,not in labor force,NA,white,81,female,yes,NA,english,no,hs or lower,no,apr thru jun
+0,not in labor force,NA,white,55,male,yes,NA,english,yes,hs or lower,yes,jan thru mar
+0,not in labor force,NA,white,86,male,yes,NA,english,no,grad,no,jul thru sep
+0,not in labor force,NA,white,65,female,yes,NA,english,yes,hs or lower,yes,jan thru mar
+2500,employed,9,black,30,female,yes,60,english,no,college,no,jul thru sep
+51000,employed,40,other,49,male,yes,20,other,yes,grad,no,oct thru dec
+70000,employed,40,white,44,female,yes,15,english,yes,hs or lower,no,jan thru mar
+0,NA,NA,white,15,male,yes,NA,english,no,hs or lower,no,apr thru jun
+0,not in labor force,NA,other,54,female,no,NA,other,no,hs or lower,yes,jan thru mar
+40000,employed,55,white,53,female,yes,15,english,yes,grad,no,jan thru mar
+56000,employed,40,white,50,male,yes,20,english,yes,hs or lower,no,oct thru dec
+0,not in labor force,NA,white,70,female,yes,NA,english,no,hs or lower,no,jan thru mar
+12800,employed,40,white,26,female,yes,30,english,no,hs or lower,no,apr thru jun
+NA,NA,NA,white,1,female,yes,NA,NA,no,NA,no,oct thru dec
+0,not in labor force,NA,white,86,male,yes,NA,english,yes,grad,yes,apr thru jun
+100000,employed,60,white,41,male,yes,35,english,yes,grad,no,apr thru jun
+10000,unemployed,16,white,61,male,yes,NA,english,no,hs or lower,yes,jul thru sep
+0,not in labor force,NA,white,84,female,yes,NA,english,no,hs or lower,yes,jul thru sep
+55000,employed,40,white,36,male,yes,45,english,yes,college,no,apr thru jun
+NA,NA,NA,white,5,male,yes,NA,other,no,hs or lower,no,apr thru jun
+0,not in labor force,NA,white,44,male,yes,NA,english,no,hs or lower,yes,jul thru sep
+30000,employed,40,white,47,female,yes,30,english,yes,college,no,oct thru dec
+345000,employed,60,white,64,male,yes,40,english,yes,grad,no,jul thru sep
+NA,NA,NA,white,3,female,yes,NA,NA,no,hs or lower,no,jan thru mar
+NA,NA,NA,white,2,female,yes,NA,NA,no,NA,no,jul thru sep
+345000,employed,80,asian,40,male,no,5,other,yes,hs or lower,no,oct thru dec
+80000,employed,40,white,52,female,yes,12,english,no,hs or lower,no,oct thru dec
+4800,not in labor force,35,white,21,female,yes,NA,english,no,hs or lower,no,jul thru sep
+15000,employed,18,white,36,female,yes,20,english,yes,hs or lower,no,apr thru jun
+0,employed,8,white,52,male,yes,NA,english,yes,hs or lower,yes,jul thru sep
+NA,NA,NA,white,3,female,yes,NA,NA,no,hs or lower,no,jul thru sep
+15000,not in labor force,38,white,22,female,yes,NA,english,yes,hs or lower,no,oct thru dec
+60000,employed,45,white,61,male,yes,119,other,no,hs or lower,yes,jan thru mar
+0,unemployed,NA,white,32,female,yes,NA,english,no,hs or lower,no,jul thru sep
+NA,NA,NA,white,3,male,yes,NA,NA,no,hs or lower,no,jul thru sep
+0,not in labor force,NA,white,86,male,yes,NA,english,yes,college,yes,jul thru sep
+NA,NA,NA,white,6,female,yes,NA,other,no,hs or lower,no,oct thru dec
+14000,employed,40,white,35,male,yes,75,english,yes,hs or lower,no,apr thru jun
+0,not in labor force,NA,white,69,female,yes,NA,english,no,college,no,oct thru dec
+80000,employed,45,white,47,female,yes,35,english,yes,grad,no,oct thru dec
+13000,employed,24,white,62,male,yes,5,english,yes,hs or lower,no,apr thru jun
+0,not in labor force,NA,white,66,female,yes,NA,english,yes,college,no,apr thru jun
+50000,employed,40,white,40,male,yes,5,english,yes,hs or lower,no,apr thru jun
+30000,employed,60,white,29,female,yes,3,other,no,college,no,apr thru jun
+0,not in labor force,NA,white,83,male,yes,NA,english,no,hs or lower,yes,apr thru jun
+0,not in labor force,NA,white,68,female,yes,NA,english,no,hs or lower,no,oct thru dec
+42000,employed,40,white,24,female,yes,45,english,yes,college,no,jul thru sep
+8000,employed,30,white,25,male,yes,10,english,no,hs or lower,no,apr thru jun
+1200,employed,38,white,19,male,yes,15,english,no,hs or lower,no,jul thru sep
+40000,employed,40,black,32,male,yes,20,english,yes,hs or lower,no,oct thru dec
+70000,employed,40,white,60,male,yes,30,english,yes,college,no,apr thru jun
+40000,employed,40,white,62,female,yes,20,english,no,college,no,oct thru dec
+10000,employed,30,white,18,male,no,35,other,no,hs or lower,no,apr thru jun
+0,not in labor force,NA,white,76,male,yes,NA,english,yes,hs or lower,yes,jan thru mar
+29000,employed,40,white,41,female,yes,20,english,no,hs or lower,no,jul thru sep
+0,not in labor force,NA,other,33,male,yes,NA,other,no,hs or lower,yes,apr thru jun
+3000,not in labor force,99,white,21,female,yes,NA,english,no,hs or lower,no,jul thru sep
+300,unemployed,10,white,24,male,yes,NA,english,no,college,no,oct thru dec
+0,unemployed,30,white,47,male,yes,NA,english,no,hs or lower,no,oct thru dec
+12000,employed,12,white,68,female,yes,20,english,yes,hs or lower,no,jul thru sep
+34000,employed,40,white,56,female,yes,20,english,no,college,no,apr thru jun
+0,not in labor force,NA,white,68,male,yes,NA,english,no,college,no,oct thru dec
+17000,employed,40,white,22,male,yes,15,english,no,college,no,oct thru dec
+0,not in labor force,NA,white,66,female,yes,NA,english,no,college,yes,apr thru jun
+0,not in labor force,NA,white,79,male,yes,NA,english,no,hs or lower,no,oct thru dec
+0,not in labor force,NA,white,64,female,yes,NA,english,yes,hs or lower,no,apr thru jun
+NA,NA,NA,white,4,male,yes,NA,NA,no,hs or lower,no,jul thru sep
+100000,employed,40,asian,59,male,yes,30,other,yes,college,no,jul thru sep
+0,not in labor force,NA,white,89,male,yes,NA,other,yes,hs or lower,yes,apr thru jun
+0,not in labor force,NA,white,59,female,yes,NA,english,no,hs or lower,no,jul thru sep
+0,not in labor force,NA,white,56,female,yes,NA,english,no,hs or lower,no,oct thru dec
+NA,NA,NA,white,2,female,yes,NA,NA,no,NA,no,jul thru sep
+114000,employed,45,black,62,female,yes,45,english,no,grad,no,jan thru mar
+62000,employed,40,white,48,female,yes,80,english,no,hs or lower,no,jan thru mar
+15000,employed,50,white,23,male,yes,5,english,no,college,no,apr thru jun
+0,not in labor force,NA,white,51,male,yes,NA,english,no,college,no,jan thru mar
+0,unemployed,NA,white,40,female,no,NA,other,no,hs or lower,yes,apr thru jun
+20000,employed,50,other,30,male,no,25,other,yes,grad,no,apr thru jun
+0,not in labor force,NA,white,60,female,yes,NA,english,yes,hs or lower,no,apr thru jun
+0,not in labor force,NA,white,46,female,yes,NA,other,yes,hs or lower,no,oct thru dec
+NA,NA,NA,white,12,female,yes,NA,english,no,hs or lower,no,jul thru sep
+36000,employed,40,white,48,female,yes,25,english,yes,hs or lower,no,jul thru sep
+8500,employed,48,white,58,male,yes,50,english,yes,college,yes,oct thru dec
+60000,employed,40,white,57,male,yes,10,english,yes,hs or lower,no,apr thru jun
+0,not in labor force,NA,asian,36,female,yes,NA,other,yes,hs or lower,yes,jan thru mar
+0,not in labor force,NA,white,64,male,yes,NA,english,yes,hs or lower,yes,oct thru dec
+0,not in labor force,NA,white,84,male,yes,NA,english,yes,hs or lower,no,oct thru dec
+40000,employed,40,white,52,male,yes,10,english,yes,hs or lower,no,oct thru dec
+4500,employed,25,white,20,male,yes,10,english,no,hs or lower,no,oct thru dec
+0,not in labor force,NA,white,92,female,yes,NA,english,no,hs or lower,yes,oct thru dec
+19200,employed,70,white,20,male,yes,3,other,no,hs or lower,yes,apr thru jun
+0,not in labor force,NA,white,67,male,yes,NA,english,no,hs or lower,yes,jul thru sep
+NA,NA,NA,white,13,female,yes,NA,english,no,hs or lower,no,apr thru jun
+0,not in labor force,NA,white,72,male,yes,NA,english,yes,hs or lower,yes,jul thru sep
+11000,employed,20,white,69,male,yes,20,english,yes,grad,yes,apr thru jun
+36000,employed,40,black,48,male,yes,15,english,yes,hs or lower,yes,jan thru mar
+41000,employed,50,white,52,male,no,30,other,yes,hs or lower,no,oct thru dec
+12000,unemployed,40,other,63,female,yes,NA,english,no,hs or lower,no,apr thru jun
+0,not in labor force,NA,white,66,female,yes,NA,english,yes,hs or lower,no,jan thru mar
+313000,employed,30,white,32,male,yes,10,english,yes,hs or lower,no,oct thru dec
+1500,not in labor force,10,white,18,female,yes,NA,english,no,hs or lower,no,apr thru jun
+75000,employed,32,white,37,female,yes,15,english,no,hs or lower,no,jul thru sep
+NA,NA,NA,white,11,female,yes,NA,english,no,hs or lower,no,oct thru dec
+NA,NA,NA,white,8,female,yes,NA,english,no,hs or lower,no,apr thru jun
+43000,employed,40,white,29,female,yes,25,english,yes,college,no,oct thru dec
+NA,NA,NA,black,0,male,yes,NA,NA,no,NA,no,apr thru jun
+27000,employed,40,white,62,female,yes,10,english,yes,hs or lower,no,oct thru dec
+NA,NA,NA,white,1,female,yes,NA,NA,no,NA,no,jan thru mar
+800,not in labor force,40,white,40,male,yes,NA,english,yes,college,yes,oct thru dec
+0,not in labor force,NA,white,93,female,yes,NA,english,no,hs or lower,yes,oct thru dec
+17000,employed,99,other,36,male,yes,20,other,no,college,no,jan thru mar
+NA,NA,NA,black,11,female,yes,NA,english,no,hs or lower,no,jul thru sep
+NA,NA,NA,white,4,female,yes,NA,NA,no,hs or lower,no,oct thru dec
+NA,NA,NA,white,11,female,yes,NA,english,no,hs or lower,no,apr thru jun
+0,not in labor force,NA,black,81,female,yes,NA,english,no,hs or lower,yes,apr thru jun
+NA,NA,NA,black,12,female,yes,NA,english,no,hs or lower,no,jan thru mar
+0,not in labor force,NA,white,62,male,yes,NA,english,yes,hs or lower,yes,oct thru dec
+0,not in labor force,NA,white,34,female,yes,NA,english,yes,college,no,oct thru dec
+0,not in labor force,NA,asian,17,female,yes,NA,other,no,hs or lower,no,apr thru jun
+90000,employed,40,white,48,male,yes,8,english,no,college,no,jan thru mar
+NA,NA,NA,white,9,male,yes,NA,english,no,hs or lower,no,jul thru sep
+0,not in labor force,NA,white,93,female,yes,NA,english,yes,hs or lower,yes,oct thru dec
+0,not in labor force,NA,white,62,male,yes,NA,english,yes,grad,no,apr thru jun
+NA,NA,NA,white,13,female,yes,NA,english,no,hs or lower,no,jan thru mar
+0,not in labor force,NA,white,45,male,yes,NA,english,no,hs or lower,yes,jan thru mar
+21000,employed,40,black,31,female,yes,20,english,no,hs or lower,no,oct thru dec
+30000,employed,40,white,30,female,yes,45,english,no,hs or lower,no,apr thru jun
+NA,NA,NA,other,12,male,yes,NA,other,no,hs or lower,no,jan thru mar
+0,not in labor force,NA,asian,17,female,no,NA,other,no,hs or lower,no,oct thru dec
+0,NA,NA,white,15,male,yes,NA,english,no,hs or lower,no,oct thru dec
+0,not in labor force,NA,white,52,male,yes,NA,english,no,hs or lower,no,jan thru mar
+NA,NA,NA,white,5,female,yes,NA,english,no,hs or lower,no,apr thru jun
+0,not in labor force,NA,white,65,male,yes,NA,english,no,hs or lower,no,jul thru sep
+0,not in labor force,NA,other,58,male,yes,NA,english,yes,hs or lower,no,oct thru dec
+0,employed,28,white,88,male,yes,15,english,yes,college,no,apr thru jun
+0,employed,40,white,22,female,yes,15,english,no,college,no,jan thru mar
+10000,employed,15,white,54,male,yes,30,english,yes,hs or lower,no,apr thru jun
+NA,NA,NA,white,5,female,yes,NA,english,no,hs or lower,no,jul thru sep
+16000,not in labor force,50,black,32,female,yes,NA,english,no,hs or lower,no,jan thru mar
+0,not in labor force,NA,white,85,male,yes,NA,english,yes,hs or lower,yes,apr thru jun
+4500,employed,30,black,21,male,yes,45,english,no,hs or lower,no,jul thru sep
+NA,NA,NA,white,11,male,yes,NA,english,no,hs or lower,no,oct thru dec
+NA,NA,NA,white,1,female,yes,NA,NA,no,NA,no,jul thru sep
+NA,NA,NA,white,2,female,yes,NA,NA,no,NA,no,apr thru jun
+20400,unemployed,40,white,52,female,yes,NA,english,yes,hs or lower,no,jul thru sep
+35000,employed,40,white,44,male,yes,40,english,no,hs or lower,no,oct thru dec
+21600,employed,40,white,51,female,yes,60,english,yes,hs or lower,no,jan thru mar
+0,employed,45,white,34,male,yes,30,english,no,hs or lower,no,apr thru jun
+NA,NA,NA,black,6,male,yes,NA,english,no,hs or lower,no,jul thru sep
+113000,employed,60,asian,39,male,yes,20,other,yes,college,no,oct thru dec
+0,not in labor force,NA,white,64,male,yes,NA,english,yes,hs or lower,yes,jul thru sep
+0,not in labor force,NA,black,64,female,yes,NA,english,yes,hs or lower,yes,oct thru dec
+0,not in labor force,NA,black,53,female,yes,NA,english,no,hs or lower,no,oct thru dec
+0,not in labor force,NA,white,79,female,yes,NA,english,no,hs or lower,yes,apr thru jun
+0,employed,55,white,66,male,yes,NA,english,yes,hs or lower,yes,oct thru dec
+0,not in labor force,NA,white,78,female,yes,NA,english,yes,hs or lower,yes,oct thru dec
+17000,employed,32,black,32,female,yes,15,english,no,hs or lower,no,jul thru sep
+0,not in labor force,NA,white,55,male,yes,NA,english,yes,college,no,apr thru jun
+43700,not in labor force,35,white,27,male,no,NA,other,no,hs or lower,no,jan thru mar
+NA,NA,NA,other,4,male,yes,NA,NA,no,hs or lower,no,apr thru jun
+0,not in labor force,NA,white,20,female,yes,NA,english,no,hs or lower,no,oct thru dec
+95000,employed,11,white,52,male,yes,30,english,yes,hs or lower,no,jul thru sep
+50000,employed,40,white,39,male,no,40,other,yes,hs or lower,no,apr thru jun
+25000,employed,40,white,50,male,yes,25,english,yes,hs or lower,no,apr thru jun
+0,not in labor force,NA,white,63,male,yes,NA,english,yes,hs or lower,yes,jan thru mar
+NA,NA,NA,white,3,female,yes,NA,NA,no,hs or lower,no,apr thru jun
+23000,employed,40,white,54,female,yes,15,english,yes,hs or lower,no,jan thru mar
+6400,employed,32,black,28,female,yes,35,english,no,hs or lower,no,oct thru dec
+62000,employed,40,white,35,female,yes,45,english,no,college,no,jul thru sep
+0,not in labor force,NA,white,17,female,yes,NA,english,no,hs or lower,no,apr thru jun
+160000,employed,20,white,68,male,yes,1,english,yes,grad,no,jan thru mar
+2800,unemployed,30,white,24,female,yes,NA,other,no,college,yes,apr thru jun
+95000,employed,40,white,61,female,yes,5,english,no,grad,no,jul thru sep
+0,not in labor force,NA,white,82,female,yes,NA,other,no,hs or lower,no,jul thru sep
+0,not in labor force,NA,white,79,male,yes,NA,english,yes,college,no,apr thru jun
+13000,not in labor force,40,white,60,male,yes,NA,english,yes,hs or lower,yes,jul thru sep
+65000,employed,40,white,70,male,yes,25,english,yes,hs or lower,no,jan thru mar
+100000,employed,40,white,30,male,yes,15,english,yes,grad,no,apr thru jun
+200,unemployed,8,other,40,male,yes,NA,english,no,hs or lower,no,oct thru dec
+0,not in labor force,NA,white,17,male,yes,NA,english,no,hs or lower,no,jul thru sep
+0,not in labor force,NA,white,76,male,yes,NA,english,yes,hs or lower,no,jan thru mar
+80000,employed,60,white,60,male,yes,15,english,no,college,no,jul thru sep
+39500,employed,40,white,46,male,yes,30,english,yes,hs or lower,no,apr thru jun
+0,not in labor force,NA,white,38,female,yes,NA,english,no,hs or lower,no,jul thru sep
+10000,employed,20,other,20,female,yes,30,other,no,hs or lower,yes,oct thru dec
+56000,employed,40,white,66,male,yes,2,english,yes,hs or lower,no,jul thru sep
+100000,employed,40,white,43,male,yes,15,english,yes,hs or lower,no,jul thru sep
+290,not in labor force,30,white,59,female,yes,NA,english,yes,hs or lower,yes,oct thru dec
+12500,employed,40,white,38,male,yes,NA,english,no,hs or lower,no,jul thru sep
+10200,employed,50,white,58,male,yes,50,english,yes,hs or lower,no,jul thru sep
+1800,not in labor force,4,white,18,female,yes,NA,english,no,hs or lower,no,jan thru mar
+NA,NA,NA,white,10,male,yes,NA,english,no,hs or lower,no,apr thru jun
+25000,employed,40,white,54,female,yes,35,other,no,hs or lower,no,oct thru dec
+0,not in labor force,NA,white,64,female,yes,NA,english,yes,hs or lower,no,jan thru mar
+0,not in labor force,NA,white,86,female,yes,NA,english,no,hs or lower,yes,oct thru dec
+0,unemployed,NA,white,60,female,yes,NA,english,no,hs or lower,no,jul thru sep
+0,not in labor force,NA,asian,17,male,yes,NA,english,no,hs or lower,no,jul thru sep
+85000,employed,50,white,58,male,yes,15,english,yes,hs or lower,no,jul thru sep
+55000,employed,40,black,59,male,yes,35,english,yes,hs or lower,yes,apr thru jun
+10000,employed,25,other,40,female,yes,10,english,yes,hs or lower,no,apr thru jun
+0,not in labor force,NA,white,49,female,yes,NA,english,no,hs or lower,yes,oct thru dec
+5000,employed,8,white,34,female,yes,15,english,yes,college,no,oct thru dec
+11400,employed,20,black,54,female,yes,25,english,no,hs or lower,yes,jul thru sep
+1100,employed,40,white,33,female,no,20,other,yes,hs or lower,yes,apr thru jun
+23000,employed,40,other,19,male,yes,40,other,no,hs or lower,no,oct thru dec
+0,employed,35,white,45,female,yes,5,english,no,college,no,jul thru sep
+20000,employed,40,white,57,female,no,45,other,yes,hs or lower,yes,apr thru jun
+9000,employed,50,white,42,female,yes,2,english,yes,hs or lower,no,apr thru jun
+65000,employed,40,white,43,male,yes,20,english,no,college,no,oct thru dec
+0,not in labor force,NA,white,71,male,yes,NA,english,yes,college,no,oct thru dec
+45000,employed,40,white,28,female,yes,45,other,yes,hs or lower,no,oct thru dec
+0,not in labor force,NA,white,64,female,yes,NA,english,no,college,no,jan thru mar
+0,unemployed,NA,white,19,male,yes,NA,english,no,hs or lower,no,oct thru dec
+0,not in labor force,NA,white,62,female,yes,NA,english,yes,hs or lower,no,oct thru dec
+NA,NA,NA,black,7,female,yes,NA,english,no,hs or lower,no,jan thru mar
+0,not in labor force,NA,white,35,female,yes,NA,english,yes,hs or lower,no,jan thru mar
+48000,employed,40,white,47,female,yes,30,english,yes,hs or lower,no,jul thru sep
+0,not in labor force,NA,black,33,male,yes,NA,english,no,hs or lower,yes,jan thru mar
+0,not in labor force,NA,white,94,male,yes,NA,english,yes,college,yes,jan thru mar
+4800,employed,40,white,48,male,yes,20,other,no,college,no,jul thru sep
+NA,NA,NA,black,11,male,yes,NA,english,no,hs or lower,no,apr thru jun
+70000,employed,50,white,59,male,yes,1,english,yes,hs or lower,no,jan thru mar
+23000,employed,40,black,47,female,yes,15,english,no,hs or lower,no,jul thru sep
+NA,NA,NA,white,11,male,yes,NA,english,no,hs or lower,no,oct thru dec
+0,not in labor force,NA,white,68,female,yes,NA,english,yes,hs or lower,yes,jul thru sep
+0,not in labor force,NA,white,60,female,yes,NA,english,no,grad,no,jan thru mar
+NA,NA,NA,white,7,male,yes,NA,english,no,hs or lower,no,jul thru sep
+18000,employed,35,white,45,female,yes,15,other,yes,hs or lower,no,oct thru dec
+0,not in labor force,NA,white,16,male,yes,NA,other,no,hs or lower,no,jul thru sep
+NA,NA,NA,white,11,female,yes,NA,english,no,hs or lower,no,oct thru dec
+NA,NA,NA,white,0,female,yes,NA,NA,no,NA,no,jul thru sep
+30000,employed,45,other,40,male,yes,5,other,yes,hs or lower,no,oct thru dec
+0,not in labor force,NA,white,64,male,yes,NA,english,no,college,no,jan thru mar
+28000,employed,36,white,54,male,yes,20,english,yes,hs or lower,no,jan thru mar
+0,unemployed,NA,white,63,male,yes,NA,english,yes,college,no,apr thru jun
+25000,employed,40,black,61,female,yes,30,english,no,college,yes,apr thru jun
+0,not in labor force,NA,asian,50,female,no,NA,other,yes,college,no,jan thru mar
+0,not in labor force,NA,white,19,male,yes,NA,english,no,hs or lower,no,apr thru jun
+19000,employed,40,black,26,male,no,20,other,no,hs or lower,no,jan thru mar
+14800,employed,40,black,64,male,yes,20,english,no,hs or lower,yes,apr thru jun
+100000,employed,40,asian,48,male,no,15,other,no,grad,no,oct thru dec
+0,not in labor force,NA,white,76,female,yes,NA,english,yes,hs or lower,no,oct thru dec
+50000,employed,32,other,48,female,yes,45,english,no,college,no,jul thru sep
+NA,NA,NA,other,9,male,yes,NA,english,no,hs or lower,no,apr thru jun
+NA,NA,NA,white,11,male,yes,NA,other,no,hs or lower,no,oct thru dec
+0,not in labor force,NA,other,19,female,yes,NA,other,no,hs or lower,no,jan thru mar
+21000,not in labor force,40,white,42,female,yes,NA,english,yes,hs or lower,no,oct thru dec
+NA,NA,NA,white,13,female,yes,NA,english,no,hs or lower,no,oct thru dec
+0,not in labor force,NA,white,79,female,yes,NA,english,yes,hs or lower,yes,oct thru dec
+0,not in labor force,NA,white,69,male,yes,NA,english,yes,college,no,jul thru sep
+36000,employed,48,white,47,male,yes,30,english,no,hs or lower,no,apr thru jun
+NA,NA,NA,white,4,male,yes,NA,NA,no,hs or lower,no,oct thru dec
+60000,employed,50,white,29,male,yes,50,english,yes,hs or lower,no,oct thru dec
+42000,employed,40,white,29,male,yes,20,english,yes,hs or lower,no,jan thru mar
+NA,NA,NA,white,13,male,yes,NA,english,no,hs or lower,no,jul thru sep
+5200,employed,32,white,36,female,yes,10,english,yes,hs or lower,no,oct thru dec
+NA,NA,NA,white,9,female,yes,NA,english,no,hs or lower,no,jan thru mar
+0,not in labor force,NA,white,59,female,yes,NA,english,yes,hs or lower,no,jan thru mar
+0,not in labor force,NA,black,65,male,no,NA,english,yes,hs or lower,yes,apr thru jun
+NA,NA,NA,white,3,male,yes,NA,NA,no,hs or lower,no,jan thru mar
+29000,employed,40,white,55,female,yes,10,other,yes,hs or lower,no,jan thru mar
+0,not in labor force,NA,white,81,female,yes,NA,english,no,hs or lower,no,apr thru jun
+56000,employed,50,white,42,female,yes,145,english,yes,college,no,apr thru jun
+0,not in labor force,NA,white,73,female,yes,NA,english,no,hs or lower,no,jul thru sep
+NA,NA,NA,black,2,male,yes,NA,NA,no,NA,no,jan thru mar
+0,employed,40,white,66,male,yes,30,english,yes,hs or lower,yes,jul thru sep
+0,not in labor force,NA,black,64,female,yes,NA,english,no,hs or lower,no,oct thru dec
+NA,NA,NA,other,13,female,yes,NA,other,no,hs or lower,no,apr thru jun
+NA,NA,NA,white,13,male,yes,NA,english,no,hs or lower,no,oct thru dec
+NA,NA,NA,white,0,male,yes,NA,NA,no,NA,no,apr thru jun
+24000,employed,50,white,43,male,yes,5,english,yes,hs or lower,no,jan thru mar
+NA,NA,NA,white,10,male,yes,NA,english,no,hs or lower,no,apr thru jun
+0,not in labor force,NA,white,25,female,yes,NA,english,yes,hs or lower,no,jan thru mar
+58000,employed,40,white,48,male,yes,25,other,no,college,no,jul thru sep
+78000,employed,42,white,35,female,yes,15,english,yes,grad,no,jan thru mar
+30000,not in labor force,40,asian,45,female,yes,NA,other,no,hs or lower,no,oct thru dec
+0,not in labor force,NA,white,40,female,yes,NA,other,no,hs or lower,no,oct thru dec
+65000,employed,35,white,37,male,yes,30,english,yes,hs or lower,no,jul thru sep
+NA,NA,NA,white,6,female,yes,NA,english,no,hs or lower,no,jul thru sep
+0,not in labor force,NA,asian,20,female,no,NA,other,no,hs or lower,no,oct thru dec
+110000,employed,65,white,28,male,yes,152,english,yes,college,no,oct thru dec
+NA,NA,NA,white,14,male,yes,NA,english,no,hs or lower,no,apr thru jun
+0,not in labor force,NA,white,63,male,yes,NA,english,yes,grad,no,jul thru sep
+NA,NA,NA,black,5,male,yes,NA,english,no,hs or lower,no,jul thru sep
+45000,employed,40,white,30,male,yes,30,english,yes,hs or lower,no,jul thru sep
+NA,NA,NA,white,11,female,yes,NA,english,no,hs or lower,no,apr thru jun
+0,unemployed,NA,white,29,female,yes,NA,english,no,hs or lower,no,jan thru mar
+0,not in labor force,NA,white,66,female,yes,NA,english,yes,college,no,apr thru jun
+28000,employed,40,black,49,male,yes,4,english,no,grad,no,apr thru jun
+180,not in labor force,4,white,65,female,yes,NA,english,yes,hs or lower,no,jul thru sep
+60000,employed,60,black,61,female,yes,30,english,no,hs or lower,no,jan thru mar
+0,not in labor force,NA,white,36,female,yes,NA,english,yes,grad,no,jul thru sep
+9000,employed,40,white,37,male,yes,20,english,yes,hs or lower,yes,jan thru mar
+1200,employed,20,white,23,male,yes,10,english,no,college,no,jul thru sep
+0,not in labor force,NA,white,75,female,yes,NA,english,no,hs or lower,no,apr thru jun
+50000,employed,40,white,57,male,yes,20,other,yes,hs or lower,no,oct thru dec
+0,not in labor force,NA,white,93,female,yes,NA,english,no,hs or lower,yes,oct thru dec
+0,not in labor force,NA,black,76,female,yes,NA,english,yes,hs or lower,no,jul thru sep
+NA,NA,NA,white,4,male,yes,NA,NA,no,hs or lower,no,jul thru sep
+NA,NA,NA,white,4,male,yes,NA,NA,no,hs or lower,no,oct thru dec
+0,not in labor force,NA,white,82,female,yes,NA,english,no,hs or lower,yes,oct thru dec
+0,not in labor force,NA,white,19,female,yes,NA,english,no,hs or lower,no,apr thru jun
+50000,employed,40,white,41,female,yes,35,english,yes,grad,no,jan thru mar
+41600,employed,40,white,73,male,yes,60,english,yes,grad,no,jan thru mar
+6100,employed,30,white,42,female,yes,NA,english,yes,college,no,apr thru jun
+0,unemployed,NA,black,31,male,yes,NA,english,no,hs or lower,no,oct thru dec
+0,not in labor force,NA,white,48,female,yes,NA,english,yes,hs or lower,no,oct thru dec
+0,not in labor force,NA,white,19,male,yes,NA,english,no,hs or lower,no,apr thru jun
+0,not in labor force,NA,white,39,female,yes,NA,english,yes,hs or lower,no,apr thru jun
+36000,employed,36,black,41,female,yes,90,english,yes,college,no,apr thru jun
+20000,employed,40,white,49,female,yes,75,english,no,hs or lower,no,jul thru sep
+0,not in labor force,NA,white,72,female,yes,NA,english,yes,hs or lower,no,oct thru dec
+0,employed,55,white,51,male,yes,NA,english,yes,college,no,oct thru dec
+0,not in labor force,NA,white,44,female,yes,NA,english,yes,hs or lower,no,apr thru jun
+35000,employed,40,white,23,female,yes,5,english,no,college,no,oct thru dec
+37000,employed,40,white,59,female,yes,15,english,yes,hs or lower,no,oct thru dec
+35000,employed,42,white,59,female,yes,1,english,yes,hs or lower,no,apr thru jun
+NA,NA,NA,white,2,male,yes,NA,NA,no,NA,no,oct thru dec
+50000,employed,40,white,53,female,yes,45,english,no,grad,yes,apr thru jun
+NA,NA,NA,white,4,male,yes,NA,NA,no,hs or lower,no,jul thru sep
+NA,NA,NA,white,2,female,yes,NA,NA,no,NA,no,jan thru mar
+45000,employed,40,white,40,male,yes,45,english,yes,hs or lower,no,apr thru jun
+0,not in labor force,NA,white,49,female,yes,NA,english,yes,hs or lower,no,jan thru mar
+NA,NA,NA,white,11,male,yes,NA,english,no,hs or lower,no,apr thru jun
+0,not in labor force,NA,white,88,female,yes,NA,english,yes,college,yes,jul thru sep
+NA,NA,NA,white,7,male,yes,NA,english,no,hs or lower,no,jul thru sep
+NA,NA,NA,white,6,female,yes,NA,english,no,hs or lower,no,oct thru dec
+NA,NA,NA,white,7,female,yes,NA,english,no,hs or lower,no,oct thru dec
+0,unemployed,NA,other,46,male,yes,NA,other,no,hs or lower,no,oct thru dec
+0,not in labor force,NA,other,64,female,yes,NA,other,yes,hs or lower,yes,jan thru mar
+124000,employed,45,white,66,female,yes,30,english,no,grad,no,apr thru jun
+NA,NA,NA,white,8,male,yes,NA,other,no,hs or lower,no,oct thru dec
+0,employed,10,white,74,female,yes,NA,english,no,college,no,apr thru jun
+NA,NA,NA,black,11,female,yes,NA,english,no,hs or lower,no,jan thru mar
+NA,NA,NA,white,10,male,yes,NA,english,no,hs or lower,no,jan thru mar
+0,not in labor force,NA,white,68,female,yes,NA,english,yes,hs or lower,no,jul thru sep
+NA,NA,NA,white,12,female,yes,NA,english,no,hs or lower,no,oct thru dec
+NA,NA,NA,black,1,male,yes,NA,NA,no,NA,no,jul thru sep
+0,not in labor force,NA,white,29,male,yes,NA,english,no,hs or lower,no,apr thru jun
+5000,employed,20,white,30,female,yes,10,english,no,college,no,jul thru sep
+113000,employed,60,white,51,male,yes,1,english,no,college,no,jul thru sep
+0,not in labor force,NA,white,77,female,yes,NA,english,yes,hs or lower,yes,jul thru sep
+0,unemployed,NA,white,40,female,no,NA,other,yes,college,no,apr thru jun
+10000,unemployed,30,white,54,male,yes,NA,english,yes,hs or lower,no,jan thru mar
+NA,NA,NA,white,8,male,yes,NA,english,no,hs or lower,no,oct thru dec
+17200,employed,40,white,49,female,yes,10,english,yes,college,no,jan thru mar
+0,employed,40,white,39,female,yes,15,english,yes,grad,no,oct thru dec
+52000,unemployed,35,white,30,male,yes,NA,english,no,hs or lower,yes,apr thru jun
+0,not in labor force,NA,white,67,male,yes,NA,english,no,hs or lower,no,oct thru dec
+31000,employed,70,white,21,male,yes,25,english,no,hs or lower,no,apr thru jun
+0,employed,40,white,58,female,yes,20,english,yes,grad,no,jan thru mar
+13000,employed,35,white,36,male,yes,NA,english,no,hs or lower,no,jan thru mar
+48000,employed,60,black,37,male,no,30,english,yes,grad,no,jul thru sep
+0,not in labor force,NA,white,52,male,yes,NA,english,yes,college,no,apr thru jun
+0,not in labor force,NA,asian,65,female,yes,NA,other,no,hs or lower,no,oct thru dec
+3300,employed,9,white,51,female,yes,5,english,yes,hs or lower,no,jan thru mar
+7000,employed,38,white,20,male,yes,15,english,no,hs or lower,no,jul thru sep
+12900,employed,16,white,56,female,yes,10,english,yes,hs or lower,no,jan thru mar
+44000,employed,48,white,34,male,yes,20,english,yes,hs or lower,no,jul thru sep
+NA,NA,NA,white,14,male,yes,NA,english,no,hs or lower,no,jul thru sep
+90000,employed,70,white,32,male,yes,15,english,yes,college,no,jan thru mar
+6600,employed,40,white,40,female,yes,20,other,no,hs or lower,no,jan thru mar
+0,not in labor force,NA,black,74,male,yes,NA,english,yes,hs or lower,yes,jul thru sep
+0,employed,30,white,35,male,yes,1,english,yes,college,no,oct thru dec
+24000,employed,40,other,26,female,yes,15,english,yes,college,no,apr thru jun
+28000,employed,40,white,49,female,no,15,other,no,hs or lower,no,oct thru dec
+0,not in labor force,NA,white,88,female,yes,NA,english,no,grad,no,apr thru jun
+0,not in labor force,NA,other,59,male,yes,NA,other,yes,hs or lower,no,jul thru sep
+40000,employed,40,white,36,male,yes,15,english,yes,college,no,apr thru jun
+1000,employed,6,other,64,female,yes,10,english,yes,college,no,oct thru dec
+20000,employed,40,black,37,male,yes,10,english,no,hs or lower,no,apr thru jun
+NA,NA,NA,white,3,male,yes,NA,NA,no,hs or lower,no,jan thru mar
+30000,employed,40,white,34,male,yes,25,english,yes,hs or lower,no,oct thru dec
+0,unemployed,NA,white,43,male,yes,NA,english,no,hs or lower,no,jan thru mar
+NA,NA,NA,other,3,male,yes,NA,NA,no,hs or lower,no,apr thru jun
+0,not in labor force,NA,white,49,female,no,NA,other,yes,hs or lower,no,oct thru dec
+NA,NA,NA,other,6,female,yes,NA,other,no,hs or lower,no,jan thru mar
+0,NA,NA,white,15,female,yes,NA,english,no,hs or lower,no,oct thru dec
+NA,NA,NA,black,0,male,yes,NA,NA,no,NA,no,oct thru dec
+NA,NA,NA,black,13,male,yes,NA,english,no,hs or lower,no,apr thru jun
+18000,employed,40,white,32,female,yes,128,english,no,hs or lower,no,apr thru jun
+NA,NA,NA,white,3,male,yes,NA,NA,no,hs or lower,no,apr thru jun
+29000,employed,40,white,23,male,yes,40,other,no,hs or lower,no,jul thru sep
+13000,employed,40,white,22,female,yes,30,english,yes,grad,no,apr thru jun
+0,not in labor force,NA,white,24,male,yes,NA,english,no,hs or lower,yes,oct thru dec
+16800,employed,40,other,22,female,yes,10,english,no,hs or lower,no,apr thru jun
+NA,NA,NA,white,9,female,yes,NA,english,no,hs or lower,no,apr thru jun
+0,not in labor force,NA,white,71,female,yes,NA,english,yes,hs or lower,no,jan thru mar
+0,not in labor force,NA,white,74,male,yes,NA,english,no,hs or lower,no,jan thru mar
+40000,employed,50,white,31,female,yes,15,other,yes,grad,no,jul thru sep
+28600,employed,40,white,53,male,yes,30,english,no,hs or lower,no,oct thru dec
+7800,employed,12,white,30,female,yes,15,english,yes,college,no,jan thru mar
+0,not in labor force,NA,white,72,male,yes,NA,english,yes,college,no,oct thru dec
+200,not in labor force,15,white,21,male,yes,NA,english,no,hs or lower,yes,jul thru sep
+NA,NA,NA,black,2,female,no,NA,NA,no,NA,no,oct thru dec
+0,not in labor force,NA,white,46,male,yes,NA,english,yes,college,no,oct thru dec
+0,not in labor force,NA,white,20,male,yes,NA,english,no,hs or lower,no,oct thru dec
+0,not in labor force,NA,white,90,male,yes,NA,english,yes,hs or lower,yes,jan thru mar
+65000,employed,50,white,30,female,yes,45,english,no,college,no,oct thru dec
+35000,employed,40,white,55,male,yes,15,other,yes,hs or lower,no,apr thru jun
+6000,employed,8,white,33,female,no,30,other,yes,hs or lower,no,jul thru sep
+55000,employed,40,white,53,male,yes,5,english,yes,hs or lower,no,apr thru jun
+NA,NA,NA,white,1,male,yes,NA,NA,no,NA,no,oct thru dec
+59000,employed,40,white,65,female,yes,10,english,yes,college,no,jan thru mar
+NA,NA,NA,other,9,female,yes,NA,english,no,hs or lower,no,apr thru jun
+0,unemployed,NA,black,70,male,yes,NA,english,yes,hs or lower,no,jul thru sep
+0,not in labor force,NA,black,64,female,yes,NA,english,yes,hs or lower,yes,oct thru dec
+NA,NA,NA,white,12,male,yes,NA,english,no,hs or lower,no,jul thru sep
+12900,employed,25,white,54,female,yes,10,other,yes,hs or lower,no,jul thru sep
+5500,not in labor force,37,white,69,female,yes,NA,english,no,hs or lower,no,jan thru mar
+NA,NA,NA,other,12,female,yes,NA,english,no,hs or lower,no,apr thru jun
+NA,NA,NA,white,14,male,yes,NA,other,no,hs or lower,no,apr thru jun
+0,not in labor force,NA,white,69,female,yes,NA,english,no,hs or lower,no,jan thru mar
+42000,employed,40,white,47,male,yes,45,english,no,hs or lower,no,jan thru mar
+72000,employed,40,white,51,female,yes,28,english,yes,hs or lower,no,apr thru jun
+NA,NA,NA,white,11,male,yes,NA,english,no,hs or lower,no,oct thru dec
+400,employed,20,white,28,female,yes,15,english,yes,college,no,jan thru mar
+0,not in labor force,NA,white,32,male,yes,NA,english,no,hs or lower,yes,oct thru dec
+0,not in labor force,NA,white,25,male,yes,NA,english,no,hs or lower,yes,jul thru sep
+180000,employed,60,white,64,male,yes,20,english,yes,grad,no,oct thru dec
+133000,employed,40,asian,39,male,yes,NA,english,yes,college,no,jan thru mar
+0,employed,10,white,29,male,yes,20,english,no,college,no,jan thru mar
+0,not in labor force,NA,white,61,female,yes,NA,english,no,hs or lower,yes,jul thru sep
+92000,employed,40,white,39,male,yes,70,other,yes,hs or lower,no,oct thru dec
+0,not in labor force,NA,white,72,male,yes,NA,english,no,grad,no,jan thru mar
+0,not in labor force,NA,white,17,male,yes,NA,other,no,hs or lower,no,jul thru sep
+75000,employed,45,white,30,male,yes,30,other,yes,grad,no,oct thru dec
+0,employed,40,white,51,male,yes,NA,english,no,college,no,jul thru sep
+NA,NA,NA,white,13,female,yes,NA,other,no,hs or lower,no,apr thru jun
+NA,NA,NA,white,2,female,yes,NA,NA,no,NA,no,jul thru sep
+60000,employed,84,white,43,male,yes,10,other,yes,hs or lower,yes,jul thru sep
+35000,employed,56,white,34,male,yes,40,english,yes,college,no,jan thru mar
+0,not in labor force,NA,white,67,male,yes,NA,english,yes,hs or lower,no,apr thru jun
+92000,employed,40,white,46,female,yes,20,english,no,college,no,oct thru dec
+0,not in labor force,NA,white,46,male,yes,NA,english,yes,hs or lower,no,jan thru mar
+40000,employed,40,white,30,male,yes,40,english,yes,college,no,jul thru sep
+0,not in labor force,NA,black,45,female,yes,NA,english,no,hs or lower,yes,jan thru mar
+0,not in labor force,NA,black,87,female,yes,NA,english,no,grad,yes,jan thru mar
+0,unemployed,NA,white,29,female,yes,NA,english,no,hs or lower,no,jul thru sep
+NA,NA,NA,white,10,male,yes,NA,english,no,hs or lower,no,oct thru dec
+18000,employed,99,white,39,male,yes,NA,english,yes,hs or lower,yes,jul thru sep
+0,not in labor force,NA,white,80,male,yes,NA,english,yes,hs or lower,no,oct thru dec
+0,not in labor force,NA,white,86,female,yes,NA,english,yes,hs or lower,yes,oct thru dec
+NA,NA,NA,white,8,female,yes,NA,english,no,hs or lower,no,apr thru jun
+NA,NA,NA,white,9,male,yes,NA,english,no,hs or lower,no,jan thru mar
+0,not in labor force,NA,white,34,female,no,NA,other,yes,hs or lower,no,apr thru jun
+20400,employed,40,white,40,female,yes,20,english,yes,college,no,jul thru sep
+88000,employed,50,asian,34,female,yes,25,english,no,grad,no,jul thru sep
+NA,NA,NA,black,13,male,yes,NA,english,no,hs or lower,no,jul thru sep
+NA,NA,NA,white,5,male,yes,NA,other,no,hs or lower,no,jan thru mar
+9100,employed,30,other,63,female,yes,40,other,yes,hs or lower,no,jul thru sep
+0,not in labor force,NA,white,88,male,yes,NA,english,yes,hs or lower,yes,jan thru mar
+0,not in labor force,NA,black,18,male,yes,NA,english,no,hs or lower,no,jul thru sep
+55000,employed,40,black,27,female,yes,25,english,no,grad,no,jul thru sep
+50000,employed,27,white,33,female,yes,45,english,yes,college,no,oct thru dec
+NA,NA,NA,white,11,male,yes,NA,english,no,hs or lower,no,apr thru jun
+0,not in labor force,NA,white,63,male,yes,NA,english,no,college,no,apr thru jun
+NA,NA,NA,white,1,male,yes,NA,NA,no,NA,no,jul thru sep
+8900,employed,40,white,50,female,yes,5,other,no,hs or lower,yes,apr thru jun
+0,not in labor force,NA,black,22,male,yes,NA,english,no,college,no,jul thru sep
+0,not in labor force,NA,white,85,male,yes,NA,english,no,hs or lower,yes,oct thru dec
+30000,employed,30,white,38,female,yes,30,english,yes,college,no,jul thru sep
+5000,employed,15,white,22,female,yes,10,english,no,college,no,jan thru mar
+26000,employed,45,white,39,female,yes,20,english,yes,hs or lower,no,jul thru sep
+0,not in labor force,NA,white,76,female,yes,NA,english,yes,hs or lower,yes,jul thru sep
+21500,employed,40,white,44,female,yes,8,english,yes,hs or lower,no,apr thru jun
+600,unemployed,5,white,23,male,yes,NA,english,no,college,no,oct thru dec
+0,not in labor force,NA,white,72,female,yes,NA,english,no,hs or lower,no,jul thru sep
+0,not in labor force,NA,white,70,male,yes,NA,other,yes,grad,no,oct thru dec
+25000,employed,40,other,56,female,yes,5,other,yes,hs or lower,no,jan thru mar
+0,unemployed,NA,white,56,male,yes,NA,english,no,hs or lower,yes,jan thru mar
+62000,employed,68,white,49,female,yes,75,english,no,college,no,jan thru mar
+NA,NA,NA,black,13,female,yes,NA,english,no,hs or lower,no,apr thru jun
+NA,NA,NA,black,4,male,yes,NA,NA,no,hs or lower,no,jan thru mar
+NA,NA,NA,white,5,male,yes,NA,other,no,hs or lower,no,jan thru mar
+0,not in labor force,NA,white,63,female,yes,NA,english,yes,college,no,apr thru jun
+NA,NA,NA,white,0,female,yes,NA,NA,no,NA,no,jul thru sep
+3500,employed,15,white,22,female,yes,NA,english,no,hs or lower,yes,apr thru jun
+NA,NA,NA,white,9,female,yes,NA,english,no,hs or lower,no,jul thru sep
+60000,employed,40,black,54,female,yes,90,english,yes,hs or lower,no,oct thru dec
+0,not in labor force,NA,black,86,male,yes,NA,english,yes,hs or lower,no,jan thru mar
+NA,NA,NA,white,14,male,yes,NA,english,no,hs or lower,no,oct thru dec
+0,not in labor force,NA,white,68,male,yes,NA,english,yes,hs or lower,no,oct thru dec
+40000,employed,40,other,30,female,yes,10,other,yes,grad,no,jul thru sep
+49000,employed,40,white,48,male,yes,15,english,yes,hs or lower,no,jul thru sep
+NA,NA,NA,other,3,female,yes,NA,NA,no,hs or lower,no,oct thru dec
+65000,employed,40,white,39,female,yes,NA,english,no,hs or lower,no,oct thru dec
+0,not in labor force,NA,other,31,female,yes,NA,other,no,hs or lower,no,apr thru jun
+9400,not in labor force,40,white,25,female,no,NA,other,yes,hs or lower,no,jul thru sep
+190000,employed,50,white,48,male,yes,45,english,yes,grad,no,jan thru mar
+18000,employed,40,other,56,female,yes,8,other,yes,hs or lower,yes,oct thru dec
+10000,employed,10,white,73,male,yes,60,english,yes,hs or lower,yes,jul thru sep
+30000,employed,40,white,66,male,yes,5,other,yes,hs or lower,no,oct thru dec
+78000,employed,40,white,45,male,yes,45,english,no,grad,no,apr thru jun
+0,not in labor force,NA,white,86,male,yes,NA,english,no,college,yes,oct thru dec
+NA,NA,NA,white,1,male,yes,NA,NA,no,NA,no,apr thru jun
+0,not in labor force,NA,asian,24,male,yes,NA,other,no,hs or lower,yes,jul thru sep
+13000,employed,15,white,27,female,yes,20,english,no,hs or lower,no,apr thru jun
+0,not in labor force,NA,white,72,male,yes,NA,english,yes,hs or lower,yes,apr thru jun
+6200,employed,35,black,20,female,yes,30,english,no,hs or lower,no,jul thru sep
+7000,employed,15,white,22,male,yes,15,english,no,hs or lower,no,jan thru mar
+63000,employed,50,white,24,male,yes,6,english,no,college,no,oct thru dec
+1600,employed,15,black,22,female,yes,10,english,no,hs or lower,no,jul thru sep
+0,not in labor force,NA,white,38,female,yes,NA,other,no,hs or lower,yes,jan thru mar
+0,not in labor force,NA,white,22,female,no,NA,other,no,hs or lower,yes,oct thru dec
+0,not in labor force,NA,white,22,male,yes,NA,english,no,hs or lower,no,apr thru jun
+0,not in labor force,NA,white,48,male,yes,NA,english,yes,college,yes,apr thru jun
+0,unemployed,NA,white,47,male,yes,NA,english,yes,college,no,jul thru sep
+NA,NA,NA,white,2,male,yes,NA,NA,no,NA,no,jan thru mar
+NA,NA,NA,white,10,male,yes,NA,english,no,hs or lower,no,jul thru sep
+48900,employed,40,white,43,male,yes,20,english,yes,college,no,oct thru dec
+3500,unemployed,40,white,49,female,yes,NA,english,yes,hs or lower,no,jul thru sep
+5000,employed,25,white,48,female,yes,10,english,yes,hs or lower,yes,jul thru sep
+28000,employed,40,white,25,female,yes,45,english,no,college,no,oct thru dec
+12000,employed,38,white,62,female,yes,20,english,no,hs or lower,no,jan thru mar
+0,not in labor force,NA,white,80,female,yes,NA,other,no,hs or lower,no,oct thru dec
+33300,employed,40,white,54,female,yes,10,english,yes,hs or lower,yes,apr thru jun
+NA,NA,NA,other,11,male,yes,NA,english,no,hs or lower,no,jan thru mar
+NA,NA,NA,white,1,male,yes,NA,NA,no,NA,no,jul thru sep
+NA,NA,NA,other,11,male,yes,NA,english,no,hs or lower,no,apr thru jun
+85000,employed,40,white,52,male,yes,8,english,yes,college,no,jul thru sep
+0,not in labor force,NA,black,17,male,no,NA,other,no,hs or lower,no,oct thru dec
+65000,employed,48,white,53,male,yes,45,english,yes,hs or lower,yes,oct thru dec
+0,not in labor force,NA,white,71,female,yes,NA,english,yes,hs or lower,no,oct thru dec
+0,not in labor force,NA,other,50,female,no,NA,other,yes,hs or lower,no,jul thru sep
+70000,employed,40,asian,63,male,yes,30,english,no,college,no,jan thru mar
+105000,employed,50,asian,36,male,yes,30,english,yes,college,no,apr thru jun
+0,unemployed,NA,black,22,male,yes,NA,english,no,college,no,oct thru dec
